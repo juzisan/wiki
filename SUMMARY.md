@@ -5,6 +5,7 @@
 * [计算机](ji-suan-ji/README.md)
 * [Openwrt设置](openwrt-she-zhi.md)
 * [网络电视盒子应用](wang-luo-dian-shi-he-zi-ying-yong.md)
+* [Windows 安装](windows-an-zhuang.md)
 * [Linux 安装](ji-suan-ji/linux-an-zhuang.md)
 * [Python](page-4.md)
   * [1. python 运行环境的搭建](python/1.-python-yun-hang-huan-jing-de-da-jian.md)
