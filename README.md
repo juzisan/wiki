@@ -93,11 +93,3 @@ description: hello Anaconda
 
 * [https://imgchr.com](https://imgchr.com)
 
-
-## moonlight 和 sunshine
-
-* moonlight 局域网串流客户端 [https://moonlight-stream.org/](https://moonlight-stream.org/)
-* moonlight GitHub [https://github.com/moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)
-* sunshine 局域网串流服务 [https://github.com/LizardByte/Sunshine/releases](https://github.com/LizardByte/Sunshine/releases)
-* sunshine 文档 [https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/overview.html](https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/overview.html)
-* sunshine 默认管理网址 [https://localhost:47990/](https://localhost:47990/)
