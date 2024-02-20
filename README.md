@@ -81,7 +81,7 @@ description: hello Anaconda
 * 域名注册 [https://sso.godaddy.com/?realm=idp\&app=venture-redirector\&path=/](https://sso.godaddy.com/?realm=idp\&app=venture-redirector\&path=/)
 * 现有域名 [www.juzi23.shop](https://www.juzi23.shop) 到24年7月29
 * gitbook [https://www.gitbook.com/](https://www.gitbook.com/)
-* gitbook 个人博客 [https://juzi.gitbook.io/wiki/](https://juzi.gitbook.io/wiki/)
+* gitbook 个人博客 [https://juzi.gitbook.io/wiki/](https://juzi.gitbook.io/wiki/) 设置 [dns](https://www.dns.com/login.html) 加速访问会快
 * python 在线运行 [https://www.pythonanywhere.com/login/](https://www.pythonanywhere.com/login/)
 * 缩短域名 [https://app.rebrandly.com/linkgallery](https://app.rebrandly.com/linkgallery)
 
