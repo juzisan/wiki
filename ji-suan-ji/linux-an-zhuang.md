@@ -4,7 +4,26 @@
 
 [下载地址](https://endeavouros.com/latest-release/)安装xfce界面，更新源设置成国内，[个性化设置中文wiki](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5)
 
-## 2. Debian
+## 2. Debian 个人电脑安装
+
+- 因为 Debian 支持双拼，安装的时候选 KDE 界面。
+- Debian 安装的时候断网，不然联网更新太慢了。
+- 给账户 root 权限。`sudo kate /etc/sudoers`。
+内容 `test ALL= (ALL) ALL`
+- 改 [电子科技大学镜像](https://mirrors.ustc.edu.cn/help/debian.html)
+`sudo kate /etc/apt/sources.list`
+- 更新系统 `sudo apt-get update` `sudo apt-get -y upgrade`
+- 改 hosts 文件 `sudo kate /etc/hosts` [内容](https://raw.hellogithub.com/hosts)
+- deb 软件包安装 `sudo dpkg -i ` 后边接上软件包的名字
+- deb 软件包 wps edge gitkraken
+- 安装 anaconda 输入都是 yes [安装说明](https://raw.hellogithub.com/hosts) 有些之后的配置要做 [更新源](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
+执行 `conda config --set show_channel_urls yes` 然后主文件下就有要改的文件了。
+- 升级命令 `conda clean -i ` `conda update conda`
+- gitkraken 同步仓库。pycharm 解压缩，用 sh 执行，建立快捷方式，打开仓库，项目环境添加 anaconda 环境。
+- wps 复制字体 `sudo unzip fronts.zip -d /usr/share/fonts/wps-office/
+`
+
+## 3. Debian 服务器安装
 
 ### 1. 下载安装Debian
 
