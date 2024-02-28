@@ -2,7 +2,10 @@
 
 ## 1. EndeavourOS
 
-[下载地址](https://endeavouros.com/latest-release/)安装xfce界面，更新源设置成国内，[个性化设置中文wiki](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5)
+- [下载地址](https://endeavouros.com/latest-release/)安装xfce界面，更新源设置成国内，[个性化设置中文wiki](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5) 中文输入法得多次重启电脑
+- xfce 没有采用 wayland，所以可以 pyautogui 截屏
+- 安装 office ， kate ， gitkraken ， edge ， chromium
+- sudo pacman -S ， yay 安装软件
 
 ## 2. Debian 个人电脑安装
 
