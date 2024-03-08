@@ -13,25 +13,27 @@ description: Windows 安装介绍
 6. EasyRC [https://firpe.cn/page-196](https://firpe.cn/page-196) 重装系统软件
 7. Bitwarden 密码管理器 [https://vault.bitwarden.com/#/vault](https://vault.bitwarden.com/#/vault)
 8. iTab 浏览器网页标签 [https://www.itab.link/install/chrome.html](https://www.itab.link/install/chrome.html)
-9. [手心输入法](https://www.xinshuru.com/index.html?p=win)
-10. 单文件软件 [https://www.cmdpe.com/category-10.html](https://www.cmdpe.com/category-10.html)
-11. Filecr [https://filecr.com/en/](https://filecr.com/en/) 破解软件下载
-12. FreeCommander [https://freecommander.com/en/downloads-portable/](https://freecommander.com/en/downloads-portable/)
+9. 桌面增强 [itop](https://www.itopvpn.com/user-manual/ied/?name=ied&ver=2.4.0.8&lan=&insur=other&to=wc_learn#Download-&-Installation)
+10. [手心输入法](https://www.xinshuru.com/index.html?p=win)
+11. 单文件软件 [https://www.cmdpe.com/category-10.html](https://www.cmdpe.com/category-10.html)
+12. Filecr [https://filecr.com/en/](https://filecr.com/en/) 破解软件下载
+13. FreeCommander [https://freecommander.com/en/downloads-portable/](https://freecommander.com/en/downloads-portable/)
     windows 文件管理软件
-13. Moba shell [https://mobaxterm.mobatek.net/](https://mobaxterm.mobatek.net/) Windows shell 窗口 moba2023
-14. Office 下载 [https://otp.landian.vip/zh-cn/download.html](https://otp.landian.vip/zh-cn/download.html)
-15. W 压缩软件 WinRAR [https://www.rarlab.com/download.htm](https://www.rarlab.com/download.htm)
-16. http 下载软件 [IDM ](https://filecr.com/windows/internet-download-manager/?id=187919616000)
-17. OCR 软件 [ABBYY FineReader](https://filecr.com/windows/finereader/?id=202552448000)
-18. 显示帧率 两个软件一起工作 [CapFrameX](https://www.capframex.com/download) [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)
-19. 看图软件 [Honeyview](https://www.bandisoft.com/honeyview/)
-20. 文本编辑器 [Kate](https://kate-editor.org/zh-cn/get-it/) [UltraEdit](https://filecr.com/windows/idm-ultra-edit-0001/?id=587332864000)
-21. 视频播放器 [PotPlayer](https://potplayer.tv/?lang=zh_CN) 恒星播放器(需要自行下载破解版，用来播放特殊高清视频)
-22. 系统增强 [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install)
-23. 屏幕截图 [ShareX](https://getsharex.com/)
-24. 游戏平台 [Steam](https://store.steampowered.com/about/)
-25. 虚拟机 [VMware](https://www.vmware.com/go/getworkstation-win)
-26. 火狐 [firefox]()
+14. Moba shell [https://mobaxterm.mobatek.net/](https://mobaxterm.mobatek.net/) Windows shell 窗口 moba2023
+15. Office 下载 [https://otp.landian.vip/zh-cn/download.html](https://otp.landian.vip/zh-cn/download.html)
+16. W 压缩软件 WinRAR [https://www.rarlab.com/download.htm](https://www.rarlab.com/download.htm)
+17. http 下载软件 [IDM ](https://filecr.com/windows/internet-download-manager/?id=187919616000)
+18. OCR 软件 [ABBYY FineReader](https://filecr.com/windows/finereader/?id=202552448000)
+19. 显示帧率 两个软件一起工作 [CapFrameX](https://www.capframex.com/download) [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)
+20. 看图软件 [Honeyview](https://www.bandisoft.com/honeyview/)
+21. 文本编辑器 [Kate](https://kate-editor.org/zh-cn/get-it/) [UltraEdit](https://filecr.com/windows/idm-ultra-edit-0001/?id=587332864000)
+22. 视频播放器 [PotPlayer](https://potplayer.tv/?lang=zh_CN) 恒星播放器(需要自行下载破解版，用来播放特殊高清视频)
+23. 视频音频照片格式转换 [File Converter](https://github.com/Tichau/FileConverter/releases)
+24. 系统增强 [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install) [NirLauncher](https://launcher.nirsoft.net/downloads/index.html)
+25. 屏幕截图 [ShareX](https://getsharex.com/)
+26. 游戏平台 [Steam](https://store.steampowered.com/about/)
+27. 虚拟机 [VMWare](https://www.vmware.com/go/getworkstation-win)
+28. 火狐 [firefox]()
 
 
 ## moonlight 和 sunshine
