@@ -20,6 +20,7 @@ description: hello Anaconda
 * Gpt [https://cc.ai55.cc/](https://cc.ai55.cc/) 公众号 赞美青春
 * Gpt GitHub [https://github.com/xx025/carrot](https://github.com/xx025/carrot)
 * iTab浏览器网页标签 [https://www.itab.link/install/chrome.html](https://www.itab.link/install/chrome.html)
+* 纽曼 [http://nk.newsmy-gps.com/index.html](http://nk.newsmy-gps.com/index.html)
 * Similarweb 相似网站搜索 [https://www.similarweb.com/zh/](https://www.similarweb.com/zh/)
 * S 搜狗微信 [https://weixin.sogou.com/?p=73141200\&kw=](https://weixin.sogou.com/?p=73141200\&kw=)
 * Vi [https://www.runoob.com/linux/linux-vim.html](https://www.runoob.com/linux/linux-vim.html)
