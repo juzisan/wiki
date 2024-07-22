@@ -12,6 +12,7 @@ description: IPTV
 - 配置地址（必填） [https://yingheapp.com/tvbox-jsonlist/](https://yingheapp.com/tvbox-jsonlist/)
 - 直播源地址 [https://epg.pw/test_channel_page.html?lang=zh-hant](https://epg.pw/test_channel_page.html?lang=zh-hant)
 - 然后就可以正常看直播了，网络盒子安装程序太费劲了，重置系统后不联网能安装 app ，联网后就不能安装 app 了
+- 配置地址 [https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt](https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt)
 
 ## 电脑端
 

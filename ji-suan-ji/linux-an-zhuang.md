@@ -3,9 +3,32 @@
 ## 1. EndeavourOS
 
 - [下载地址](https://endeavouros.com/latest-release/)安装xfce界面，更新源设置成国内，[个性化设置中文wiki](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5) 中文输入法得多次重启电脑
-- xfce 没有采用 wayland，所以可以 pyautogui 截屏
+- xfce 没有采用 wayland，所以可以 pyautogui 截屏。gly end
 - 安装 office ， kate ， gitkraken ， edge ， chromium
 - sudo pacman -S ， yay 安装软件
+- 中文注音輸入法 `sudo pacman -S fcitx5-im fcitx5-chinese-addons  fcitx5-rime`
+- 中文輸入配置。nano是比較基本的文字編輯器，簡單好上手，大家可以更換成自己習慣的文字編輯器。
+`nano /etc/environment` 在文件中加入以下內容
+```
+GTK_IM_MODULE=fcitx
+QT_IM_MODULE=fcitx
+XMODIFIERS=@im=fcitx
+SDL_IM_MODULE=fcitx
+```
+- 存檔後reboot就可以看到更動。 和windows的shift切換字體不同，這裡是預設為Ctrl+空白鍵更換字體。
+- 什麼好看免費的字體通通都灌進來就對了。
+```
+sudo pacman -S noto-fonts-cjk wqy-microhei wqy-microhei-lite wqy-bitmapfont
+sudo pacman -S wqy-zenhei ttf-arphic-ukai ttf-arphic-uming adobe-source-han-sans-cn-fonts adobe-source-han-serif-cn-fonts
+```
+- 設定藍芽。因為EndeavourOS為了達到簡潔的地步，並沒有預設藍芽驅動，需要靠用戶自行下載使用。
+```
+sudo pacman -S --needed bluez bluez-utils
+sudo pacman -S blueberry
+```
+接著需要開啟藍芽 `sudo systemctl enable bluetooth` 然後就可以在應用軟體中找到圖形化界面的藍芽程式了！
+
+宝贵经验来源于[范剛哲的部落格](https://fgzblog.com/2022/08/安裝EndeavourOS後做的六件事)
 
 ## 2. Debian 个人电脑安装
 
@@ -164,3 +187,6 @@ cd /opt/alist
 重启服务：systemctl restart alist
 停止服务：systemctl stop alist
 ```
+
+## 4. VmWare 安装黑苹果
+
