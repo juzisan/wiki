@@ -8,12 +8,14 @@ description: IPTV
 
 ## 安卓
 
+- github 代理 [https://mirror.ghproxy.com/](https://mirror.ghproxy.com/)
 - TVBox [https://github.com/o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC)
 - 配置地址（必填） [https://yingheapp.com/tvbox-jsonlist/](https://yingheapp.com/tvbox-jsonlist/)
 - 直播源地址 [https://epg.pw/test_channel_page.html?lang=zh-hant](https://epg.pw/test_channel_page.html?lang=zh-hant)
 - 然后就可以正常看直播了，网络盒子安装程序太费劲了，重置系统后不联网能安装 app ，联网后就不能安装 app 了
 - 配置地址 [https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt](https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt)
-
+- 直播软件 [https://github.com/Supprise0901/TVBox_live](https://github.com/Supprise0901/TVBox_live)
+- 直播地址 [https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/live.txt](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/live.txt)
 ## 电脑端
 
 - ZyPlayer PC 端 [https://github.com/Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)
