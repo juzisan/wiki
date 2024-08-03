@@ -47,7 +47,15 @@ sudo pacman -S blueberry
 - 升级命令 `conda clean -i ` `conda update conda`
 - gitkraken 同步仓库。pycharm 解压缩，用 sh 执行，建立快捷方式，打开仓库，项目环境添加 anaconda 环境。
 - wps 复制字体 `sudo unzip fronts.zip -d /usr/share/fonts/wps-office/
-`
+` snap 安装 [https://snapcraft.io/store?categories=featured](https://snapcraft.io/store?categories=featured)
+- 安装 snap 命令
+```
+sudo apt update
+sudo apt install snapd
+sudo snap install snapcraft --classic
+```
+
+- 
 
 ## 3. Debian 服务器安装
 
