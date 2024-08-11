@@ -54,7 +54,12 @@ sudo apt update
 sudo apt install snapd
 sudo snap install snapcraft --classic
 ```
-
+- 视频播放器 vlc `sudo apt install vlc`
+- 文件管理软件 `sudo apt install dolphin`
+- 图片编辑软件 `sudo apt install gimp`
+- pdf 阅读软件`sudo apt install okular`
+- 星火软件商店 [https://gitee.com/spark-store-project/spark-store/releases](https://gitee.com/spark-store-project/spark-store/releases)
+- 安装字体
 - 
 
 ## 3. Debian 服务器安装
