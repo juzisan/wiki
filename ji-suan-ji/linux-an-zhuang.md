@@ -204,3 +204,17 @@ cd /opt/alist
 
 ## 4. VmWare 安装黑苹果
 
+## 5. istoreOS 安装
+
+### 1 下载 istoreOS
+
+- [下载地址](https://fw.koolcenter.com/iStoreOS/x86_64_efi/) [安装说明](https://doc.linkease.com/zh/guide/istoreos/install_x86.html)
+- [rufus下载地址](https://rufus.ie/zh/) 固件下载打镜像文件只能在 win 下用 rufus 写盘
+- `quickstart` 命令进行安装， root 密码是 password
+- 添加硬盘，增加共享 samba
+
+### 2. 插件
+- CUPS打印服务（驱动ppi文件在deb包里，地址是ip加斜杠加打印机名字）
+- 定时设置
+- iStore增强
+- qBittorrent下载器（配置和下载目录需要设定）
