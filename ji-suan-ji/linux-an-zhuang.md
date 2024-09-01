@@ -47,8 +47,22 @@ sudo pacman -S blueberry
 - 升级命令 `conda clean -i ` `conda update conda`
 - gitkraken 同步仓库。pycharm 解压缩，用 sh 执行，建立快捷方式，打开仓库，项目环境添加 anaconda 环境。
 - wps 复制字体 `sudo unzip fronts.zip -d /usr/share/fonts/wps-office/
-`
-
+` snap 安装 [https://snapcraft.io/store?categories=featured](https://snapcraft.io/store?categories=featured)
+- 安装 snap 命令
+```
+sudo apt update
+sudo apt install snapd
+sudo snap install snapcraft --classic
+```
+- 视频播放器 vlc `sudo apt install vlc`
+- 文件管理软件 `sudo apt install dolphin`
+- 图片编辑软件 `sudo apt install gimp`
+- pdf 阅读软件`sudo apt install okular`
+- 星火软件商店 [https://gitee.com/spark-store-project/spark-store/releases](https://gitee.com/spark-store-project/spark-store/releases)
+- 安装字体
+- 在海豚中增加服务器共享 `smb://10.10.10.11/2_share`
+- 网络视频软件 [https://github.com/Hiram-Wong/ZyPlayer/releases](https://github.com/Hiram-Wong/ZyPlayer/releases)
+- 配置见网络电视
 ## 3. Debian 服务器安装
 
 ### 1. 下载安装Debian
@@ -190,3 +204,17 @@ cd /opt/alist
 
 ## 4. VmWare 安装黑苹果
 
+## 5. istoreOS 安装
+
+### 1 下载 istoreOS
+
+- [下载地址](https://fw.koolcenter.com/iStoreOS/x86_64_efi/) [安装说明](https://doc.linkease.com/zh/guide/istoreos/install_x86.html)
+- [rufus下载地址](https://rufus.ie/zh/) 固件下载打镜像文件只能在 win 下用 rufus 写盘
+- `quickstart` 命令进行安装， root 密码是 password
+- 添加硬盘，增加共享 samba
+
+### 2. 插件
+- CUPS打印服务（驱动ppi文件在deb包里，地址是ip加斜杠加打印机名字）
+- 定时设置
+- iStore增强
+- qBittorrent下载器（配置和下载目录需要设定）
