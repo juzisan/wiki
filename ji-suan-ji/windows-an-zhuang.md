@@ -34,6 +34,8 @@ description: Windows 安装介绍
 26. 游戏平台 [Steam](https://store.steampowered.com/about/)
 27. 虚拟机 [VMWare](https://www.vmware.com/go/getworkstation-win)
 28. 火狐 [firefox]()
+29. 谷歌 chromium 浏览器 [chromium](https://www.chromium.org/getting-involved/dev-channel/)
+30. 谷歌 chrome 浏览器 [chrome](https://www.google.com/chrome/)
 
 
 ## moonlight 和 sunshine
