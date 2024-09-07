@@ -166,6 +166,7 @@ SmartDNS
 
 
 * 服务器器端 [https://github.com/Alvin9999/new-pac/wiki](https://github.com/Alvin9999/new-pac/wiki)
+* 一键多端 [一键多端](https://github.com/Alvin9999/new-pac/wiki/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BA%E5%A4%9A%E4%B8%AA%E5%8D%8F%E8%AE%AE%E8%8A%82%E7%82%B9%E6%95%99%E7%A8%8B)
 * linux redhat 更新软件 `yum update`
 * 本地 v2ray 客户端下载 [https://github.com/2dust/v2rayN/releases](https://github.com/2dust/v2rayN/releases)
 * 路由器 bypass 设置
@@ -199,6 +200,17 @@ CentOS系统安装curl命令：yum install -y curl
 Debian/Ubuntu系统安装curl命令：apt-get install -y curl
 
 安装完成后，输入v2ray可进入管理页面。脚本来自Jrohy/multi-v2ray。
+
+
+一键多端脚本安装命令：
+
+bash <(curl -Ls https://gitlab.com/rwkgyg/sing-box-yg/raw/main/sb.sh)
+
+安装完成后，输入sb可进入管理页面。脚本来自yonggekkk。
+
+
+
+
 ```
 ````
 
