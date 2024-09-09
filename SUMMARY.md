@@ -8,6 +8,7 @@
   * [网络电视盒子应用](ji-suan-ji/wang-luo-dian-shi-he-zi-ying-yong.md)
   * [Openwrt设置](ji-suan-ji/openwrt-she-zhi.md)
   * [nas 设置](ji-suan-ji/nas-she-zhi.md)
+  * [安卓电脑破解](ji-suan-ji/an-zhuo-dian-nao-po-jie.md)
 * [Python](page-4.md)
   * [1. python 运行环境的搭建](python/1.-python-yun-hang-huan-jing-de-da-jian.md)
 * [初入互联网](chu-ru-hu-lian-wang.md)
