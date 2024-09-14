@@ -2,23 +2,11 @@
 
 ## 继续教育科室管理员
 
-科室管理员登陆 网址 [https://lncme.mvwchina.com/](https://lncme.mvwchina.com/)
+科室管理员登陆 网址 [http://218.60.153.241/lncme/](http://218.60.153.241/lncme/)
 
-账号：`21040797-0902-2`
-
-密码：`jxjy@2023`
 
 *   [http://kjptwsw.91huayi.com/](http://kjptwsw.91huayi.com/)
 
-    账号 517223015
-
-    密码 988D
-
-    csk2019
-
-    517223075
-
-    密码 F43F
 * 华医网 [https://www.91huayi.com/](https://www.91huayi.com/)
 * 好医生 [https://cme.haoyisheng.com/](https://cme.haoyisheng.com/)
 * 双卫网 [http://sww.com.cn/](http://sww.com.cn/)
@@ -50,3 +38,21 @@
 * 彩五 11.11.2.44
 * 彩七 11.11.2.27 打印机 
 
+
+
+## 超声科会议室IP设置
+
+* 192.168.101.1
+* WAN IP
+* 11.111.2.25
+* LAN IP
+* 192.168.101.1
+* 默认网关
+* 11.111.0.254
+* DNS 服务器
+* 202.96.64.68
+* 114.114.114.114
+* wifi 链接密码
+* CSK123456
+* 路由器登录密码
+* tc7208

@@ -177,8 +177,7 @@ SmartDNS
 * vps [https://my.racknerd.com/clientarea.php](https://my.racknerd.com/clientarea.php) 10美元一年，速度挺快的
 * 美国地址生成器 [https://www.meiguodizhi.com/](https://www.meiguodizhi.com/)
 
-````
-// Some code ```
+```// Some code 
 Ubuntu 16+ / Debian 8+ 系统 v2ray一键部署管理脚本（ps：如果这个脚本不好用，教程末尾还有一个八合一共存脚本）
 
 安装命令：
@@ -208,14 +207,8 @@ bash <(curl -Ls https://gitlab.com/rwkgyg/sing-box-yg/raw/main/sb.sh)
 
 安装完成后，输入sb可进入管理页面。脚本来自yonggekkk。
 
+----------------------------------------------------------------------------------
 
-
-
-```
-````
-
-```
-// Some code
 编辑定时任务
 crontab -u root -e
 
@@ -227,9 +220,7 @@ crontab -u root -e
 45 3 * * *   systemctl restart v2ray
 30 3 * * 1 /sbin/reboot
 
-```
-
-```angular2html
+------------------------------------------------------------------------------------
 开启 bbr 加速
 
 1、修改系统变量
@@ -259,22 +250,6 @@ lsmod | grep bbr
 tcp_bbr                20480  14
 ```
 
-## 超声科会议室IP设置
-
-* 192.168.101.1
-* WAN IP
-* 11.111.2.25
-* LAN IP
-* 192.168.101.1
-* 默认网关
-* 11.111.0.254
-* DNS 服务器
-* 202.96.64.68
-* 114.114.114.114
-* wifi 链接密码
-* CSK123456
-* 路由器登录密码
-* tc7208
 
 
 ## 网络测速网址
