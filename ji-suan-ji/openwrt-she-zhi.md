@@ -220,6 +220,16 @@ crontab -u root -e
 45 3 * * *   systemctl restart v2ray
 30 3 * * 1 /sbin/reboot
 
+
+
+0 */1 * * * systemctl restart sing-box;rc-service sing-box restart
+0 */1 * * * systemctl restart --now openvpn-server@server.service
+30 3 * * 1 reboot
+
+
+
+
+
 ------------------------------------------------------------------------------------
 开启 bbr 加速
 
