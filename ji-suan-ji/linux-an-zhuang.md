@@ -47,12 +47,15 @@ sudo pacman -S blueberry
 - 升级命令 `conda clean -i ` `conda update conda`
 - gitkraken 同步仓库。pycharm 解压缩，用 sh 执行，建立快捷方式，打开仓库，项目环境添加 anaconda 环境。
 - wps 复制字体 `sudo unzip fronts.zip -d /usr/share/fonts/wps-office/
-` snap 安装 [https://snapcraft.io/store?categories=featured](https://snapcraft.io/store?categories=featured)
+- snap 安装 [https://snapcraft.io/store?categories=featured](https://snapcraft.io/store?categories=featured)
 - 安装 snap 命令
 ```
 sudo apt update
 sudo apt install snapd
 sudo snap install snapcraft --classic
+sudo snap install snap-store
+
+sudo snap remove vlc --purge
 ```
 - 视频播放器 vlc `sudo apt install vlc`
 - 文件管理软件 `sudo apt install dolphin`
@@ -110,7 +113,7 @@ WantedBy=multi-user.target
 
 开机自启 `sudo systemctl enable qbittorrent-nox`
 
-定时重启 `sudo crontab -e`&#x20;
+定时重启 `sudo crontab -e`
 
 编辑内容 `0 6 * * * sudo systemctl restart  qbittorrent-nox`
 
