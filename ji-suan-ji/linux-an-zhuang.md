@@ -64,7 +64,7 @@ sudo snap remove vlc --purge
 - markdown  编辑软件`sudo apt install retext`
 - 星火软件商店 [https://gitee.com/spark-store-project/spark-store/releases](https://gitee.com/spark-store-project/spark-store/releases)
 - 安装字体
-- 在海豚中增加服务器共享 `smb://10.10.10.11/2_share`
+- 在海豚中增加服务器共享 `smb://10.10.10.11/share`
 - 网络视频软件 [https://github.com/Hiram-Wong/ZyPlayer/releases](https://github.com/Hiram-Wong/ZyPlayer/releases)
 - 配置见网络电视
 ## 3. Debian 服务器安装
