@@ -77,7 +77,7 @@ sudo flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub
 - 文件管理软件 `sudo apt-get install dolphin`
 - 图片编辑软件 `sudo apt-get install gimp`
 - pdf 阅读软件`sudo apt-get install okular`
-- markdown  编辑软件`sudo apt-get install retext`
+- markdown  编辑软件下载 deb  remarkable
 - 星火软件商店 [https://gitee.com/spark-store-project/spark-store/releases](https://gitee.com/spark-store-project/spark-store/releases)
 - 安装字体
 - 在海豚中增加服务器共享 `smb://10.10.10.11/share`
