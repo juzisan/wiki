@@ -243,5 +243,6 @@ cd /opt/alist
 
 ## 6. fedora 安装
 ### 1. fedora 下载
-### 2. sudo passwrd 改 root 密码 
+### 2. `sudo passwd root` 改 root 密码 
 ### 3. `sudo dnf install ` 和 `sudo dnf remove `
+### 4. 安装 markdown 编辑器`sudo dnf install apostrophe`
