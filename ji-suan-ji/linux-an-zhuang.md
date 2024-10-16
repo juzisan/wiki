@@ -240,3 +240,8 @@ cd /opt/alist
 - 定时设置
 - iStore增强
 - qBittorrent下载器（配置和下载目录需要设定）
+
+## 6. fedora 安装
+### 1. fedora 下载
+### 2. sudo passwrd 改 root 密码 
+### 3. `sudo dnf install ` 和 `sudo dnf remove `
