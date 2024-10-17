@@ -242,7 +242,52 @@ cd /opt/alist
 - qBittorrent下载器（配置和下载目录需要设定）
 
 ## 6. fedora 安装
+
 ### 1. fedora 下载
-### 2. `sudo passwd root` 改 root 密码 
-### 3. `sudo dnf install ` 和 `sudo dnf remove `
-### 4. 安装 markdown 编辑器`sudo dnf install apostrophe`
+- [fedora 下载](https://fedoraproject.org/workstation/)
+
+### 2. fedora 设置
+- `sudo passwd root` 改 root 密码 
+- 关闭wayland
+
+```bash
+以 root 用户身份打开 /etc/gdm/custom.conf 文件。
+
+sudo nano /etc/gdm/custom.conf
+
+在文件的 [daemon] 部分找到以下行：
+
+#WaylandEnable=false
+通过删除 # 字符取消对行的注释。因此，行显示：
+
+WaylandEnable=false
+重启系统：
+reboot
+```
+
+- 设置 snap 和 flatpak（上海交通大学源）
+
+```bash
+sudo dnf install snapd
+sudo ln -s /var/lib/snapd/snap /snap
+sudo snap install snapcraft --classic
+
+不需要安装商店 sudo snap install snap-store
+
+sudo snap remove v4freedom --purge
+
+wget https://mirror.sjtu.edu.cn/flathub/flathub.gpg
+sudo flatpak remote-modify --gpg-import=flathub.gpg flathub
+
+sudo flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub
+```
+
+### 3. fedora 安装软件
+1. `sudo dnf install ` 和 `sudo dnf remove `
+21. `sudo dnf install scrot marker gimp okular chromium `
+2.  下载 [edge](https://www.microsoft.com/en-us/edge/download?form=MA13RB) [vivaldi](https://vivaldi.com/zh-hans/)
+2. [flathub](https://flathub.org/) [gitkraken](flatpak install flathub com.axosoft.GitKraken)
+5. `sudo snap install v4freedom`
+
+---
+
