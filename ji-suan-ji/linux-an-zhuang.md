@@ -41,28 +41,21 @@ sudo pacman -S blueberry
 ### 1. 下载
 
 - [linux mint](https://www.linuxmint.com/download.php)
-- [edge]()
+- [edge](https://www.microsoft.com/en-us/edge/download?form=MA13RB)
+  [motrix](https://motrix.app/download)
+
 ### 2. 设置
-
-### 3. 软件安装
-
-- 优选 LMDE debian 版本
-- 安装截图软件，pyautogui 能不能截图 `sudo apt-get install scrot`
-- 因为 Debian 支持双拼，安装的时候选 KDE 界面。
-- Debian 安装的时候断网，不然联网更新太慢了。
-- 给账户 root 权限。`sudo kate /etc/sudoers`。
+- 给账户 root 权限。`sudo xed /etc/sudoers`。
 内容 `test ALL= (ALL) ALL`
-- 改 [电子科技大学镜像](https://mirrors.ustc.edu.cn/help/debian.html)
-`sudo xed /etc/apt/sources.list`
 - 更新系统 `sudo apt-get update && sudo apt-get -y upgrade`
 - 改 hosts 文件 `sudo xed /etc/hosts` [内容](https://raw.hellogithub.com/hosts)
 - deb 软件包安装 `sudo dpkg -i` 后边接上软件包的名字
-- deb 软件包 wps edge gitkraken
-- 安装 anaconda 输入都是 yes [安装说明](https://raw.hellogithub.com/hosts) 有些之后的配置要做 [更新源](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
-执行 `conda config --set show_channel_urls yes` 然后主文件下就有要改的文件了。
-- 升级命令 `conda clean -i` `conda update conda`
-- gitkraken 同步仓库。pycharm 解压缩，用 sh 执行，建立快捷方式，打开仓库，项目环境添加 anaconda 环境。
-- wps 复制字体 `sudo unzip fronts.zip -d /usr/share/fonts/wps-office/
+
+### 3. 软件安装
+```bash
+sudo apt-get install scrot vlc gimp okular chromium
+```
+- 安装截图软件 scrot ,pyautogui 能不能截图 
 - snap 安装 [https://snapcraft.io/store?categories=featured](https://snapcraft.io/store?categories=featured)
 - 安装 snap flatpak 命令[flatpak上海交通大学源](https://mirrors.sjtug.sjtu.edu.cn/docs/flathub)
 
@@ -81,16 +74,13 @@ sudo flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub
 
 ```
 
-- 视频播放器 vlc `sudo apt-get install vlc`
-- 文件管理软件 `sudo apt-get install dolphin`
-- 图片编辑软件 `sudo apt-get install gimp`
-- pdf 阅读软件`sudo apt-get install okular`
-- markdown  编辑软件下载 deb  remarkable
 - 星火软件商店 [https://gitee.com/spark-store-project/spark-store/releases](https://gitee.com/spark-store-project/spark-store/releases)
 - 安装字体
 - 在海豚中增加服务器共享 `smb://10.10.10.11/share`
 - 网络视频软件 [https://github.com/Hiram-Wong/ZyPlayer/releases](https://github.com/Hiram-Wong/ZyPlayer/releases)
-- 配置见网络电视
+
+
+
 
 ## 3. Debian 服务器安装
 
@@ -292,9 +282,9 @@ sudo flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub
 
 ### 3. fedora 安装软件
 1. `sudo dnf install ` 和 `sudo dnf remove `
-21. `sudo dnf install scrot marker gimp okular chromium `
-2.  下载 [edge](https://www.microsoft.com/en-us/edge/download?form=MA13RB) [vivaldi](https://vivaldi.com/zh-hans/)
-2. [flathub](https://flathub.org/) [gitkraken](flatpak install flathub com.axosoft.GitKraken)
+2. `sudo dnf install scrot marker gimp okular chromium `
+3. 下载 [edge](https://www.microsoft.com/en-us/edge/download?form=MA13RB) [vivaldi](https://vivaldi.com/zh-hans/)
+4. [flathub](https://flathub.org/) gitkraken `flatpak install flathub com.axosoft.GitKraken`
 5. `sudo snap install v4freedom`
 
 ---
