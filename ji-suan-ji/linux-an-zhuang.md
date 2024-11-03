@@ -38,6 +38,14 @@ sudo pacman -S blueberry
 
 ## 2. Debian 个人电脑安装
 
+### 1. 下载
+
+- [linux mint](https://www.linuxmint.com/download.php)
+- [edge]()
+### 2. 设置
+
+### 3. 软件安装
+
 - 优选 LMDE debian 版本
 - 安装截图软件，pyautogui 能不能截图 `sudo apt-get install scrot`
 - 因为 Debian 支持双拼，安装的时候选 KDE 界面。
@@ -45,9 +53,9 @@ sudo pacman -S blueberry
 - 给账户 root 权限。`sudo kate /etc/sudoers`。
 内容 `test ALL= (ALL) ALL`
 - 改 [电子科技大学镜像](https://mirrors.ustc.edu.cn/help/debian.html)
-`sudo kate /etc/apt/sources.list`
+`sudo xed /etc/apt/sources.list`
 - 更新系统 `sudo apt-get update && sudo apt-get -y upgrade`
-- 改 hosts 文件 `sudo kate /etc/hosts` [内容](https://raw.hellogithub.com/hosts)
+- 改 hosts 文件 `sudo xed /etc/hosts` [内容](https://raw.hellogithub.com/hosts)
 - deb 软件包安装 `sudo dpkg -i` 后边接上软件包的名字
 - deb 软件包 wps edge gitkraken
 - 安装 anaconda 输入都是 yes [安装说明](https://raw.hellogithub.com/hosts) 有些之后的配置要做 [更新源](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
