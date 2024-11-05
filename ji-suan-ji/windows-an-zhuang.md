@@ -36,7 +36,7 @@ description: Windows 安装介绍
 28. 火狐 [firefox]()
 29. 谷歌 chromium 浏览器 [chromium](https://www.chromium.org/getting-involved/dev-channel/)
 30. 谷歌 chrome 浏览器 [chrome](https://www.google.com/chrome/)
-
+31. ATI [驱动](https://www.amd.com/zh-cn/support/download/drivers.html)
 
 ## moonlight 和 sunshine
 
@@ -45,3 +45,11 @@ description: Windows 安装介绍
 * sunshine 局域网串流服务 [https://github.com/LizardByte/Sunshine/releases](https://github.com/LizardByte/Sunshine/releases)
 * sunshine 文档 [https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/overview.html](https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/overview.html)
 * sunshine 默认管理网址 [https://localhost:47990/](https://localhost:47990/)
+
+
+## 设置
+
+两步解决Windows11 24H2 专业版无法访问局域网共享：
+1. 打开组策略，在“本地计算机策略 > 计算机配置 > 管理模板 > 网络 > Lanman 工作站”中启用“启用不安全的来宾登录”。
+2. 打开组策略，在”本地计算机策略 > 计算机配置 > Windows 设置 > 安全设置 > 本地策略>安全选项”中禁用“Microsoft 网络客户端：对通信进行数字签名（始终）”。
+立即生效。
