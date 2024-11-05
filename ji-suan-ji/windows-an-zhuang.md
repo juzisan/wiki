@@ -2,7 +2,7 @@
 description: Windows 安装介绍
 ---
 
-# Windows 安装
+## Windows 安装
 
 1. 下载 Windows 系统 [假的MSDN](https://next.itellyou.cn/Original/)  win11
    中文版 [23H2 (Jan 2024)](magnet:?xt=urn:btih:57831e3ad5e74a319c5b85f239794fca3aeb5159&dn=zh-cn_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_fee59269.iso&xl=6725859328)
