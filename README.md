@@ -48,6 +48,7 @@ description: hello Anaconda
 * GitHub 镜像 [https://gitclone.com/](https://gitclone.com/)
 * GitHub 加速 [https://github.com/521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
 * GitHub 网页下载加速 [https://ghproxy.net/](https://ghproxy.net/)
+* GitHub hosts [https://hosts.gitcdn.top/hosts.txt](https://hosts.gitcdn.top/hosts.txt)
 * GitHub hosts [https://raw.hellogithub.com/hosts](https://raw.hellogithub.com/hosts)
 * GitHub hosts [https://raw.hellogithub.com/hosts.json](https://raw.hellogithub.com/hosts.json)
 * Mypal 网页浏览器 [https://www.mypal-browser.org/](https://www.mypal-browser.org/)
