@@ -59,7 +59,7 @@ description: hello Anaconda
 * WePe [https://www.wepe.com.cn/download.html](https://www.wepe.com.cn/download.html) 好用的维护 PE
 * EasyRC [https://firpe.cn/page-196](https://firpe.cn/page-196) 重装系统软件
 * W 压缩软件 WinRAR [https://www.rarlab.com/download.htm](https://www.rarlab.com/download.htm)
-*
+* Windows 辅助软件 [https://www.sordum.org/](https://www.sordum.org/)
 
 ## 书籍下载
 

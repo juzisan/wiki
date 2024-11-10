@@ -15,9 +15,14 @@ dhcp
 dd if=/tmp/tmp/op.img of=/dev/sda 
 ```
 
-| 68:f7:28:7d:51:00  | 10.10.10.11 |
-|:------------------:|:-----------:|
-| b4:2e:99:90:ec:ca  | 10.10.10.12 |
+|        mac        |     ip      |    备注     |
+|:-----------------:|:-----------:|:---------:|
+| 68:f7:28:7d:51:00 | 10.10.10.11 |    nas    |
+| b4:2e:99:90:ec:ca | 10.10.10.12 |  AmdDesk  |
+| 28:d2:44:f1:db:6f | 10.10.10.13 |   lx笔记本   |
+| 30:3a:64:f4:c9:46 | 10.10.10.14 | lx笔记本wifi |
+
+
 
 ## 软路由端口
 
@@ -118,7 +123,7 @@ SmartDNS
 |   lnlt2    | 202.96.69.38                      | default  | udp   |
 |  google1   | 8.8.8.8                           | 853      | tls   |
 |  google2   | 8.8.4.4                           | default  | udp   |
-|  goolge3   | https://dns.google/dns-query      | default  | https |
+|  google3   | https://dns.google/dns-query      | default  | https |
 |  opendns1  | https://doh.opendns.com/dns-query | default  | https |
 |  opendns2  | 208.67.222.222                    | 53       | tcp   |
 |  opendns3  | 208.67.222.222                    | 853      | tls   |
