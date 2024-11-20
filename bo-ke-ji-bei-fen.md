@@ -11,7 +11,8 @@ description: 备份很重要
 5. 本地 GitKraken push Github
 6. 新建页面和页面调整用 gitbook 编辑
 7. Markdown 内容编辑用pyCharm 编辑
-8. 域名是 www.juzisan.site 10 年到 2034-08-31 07:59:59 188 元 ，阿里云布置到 cf 上。
+8. 域名是 www.juzisan.site 10 年到 2034-08-31 07:59:59 188 元 ，阿里云布置到 [cloudflare](https://dash.cloudflare.com) 上。
+9. juzisan.site 用 [redirhub](https://dash.redirhub.com/) 重定向 d p w
 
 # 好处是
 
