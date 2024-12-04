@@ -15,6 +15,7 @@ WebUI\AuthSubnetWhitelist=10.10.10.0/24
 WebUI\AuthSubnetWhitelistEnabled=true
 ```
 7. samba 路径 `/hdd` `share` 添加 `\\10.10.10.11`
+8. 安装 [passwall2](https://github.com/xiaorouji/openwrt-passwall2/releases) ，下载后上传到 nas ，安装命令 `opkg install *.ipk --force-reinstall` ，`添加socks代理 ，1081 端口`
 
 ## 解决 Win11 无法访问 samba：
 
