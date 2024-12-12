@@ -11,6 +11,15 @@
   * [安卓电脑破解](ji-suan-ji/an-zhuo-dian-nao-po-jie.md)
 * [Python](page-4.md)
   * [1. python 运行环境的搭建](python/1.-python-yun-hang-huan-jing-de-da-jian.md)
+
+## 常识
+
+* [上网](chang-shi/shang-wang.md)
+* [法律法规](chang-shi/falfa-gui.md)
+* [饮食](chang-shi/yin-shi.md)
+
+***
+
 * [初入互联网](chu-ru-hu-lian-wang.md)
 * [超声科](chao-sheng-ke.md)
 * [汽车](qi-che.md)
@@ -21,9 +30,3 @@
   * [表情](li-zi/biao-qing.md)
 * [博客及备份](bo-ke-ji-bei-fen.md)
 * [口罩](kou-zhao.md)
-
-## 常识
-
-* [上网](chang-shi/shang-wang.md)
-* [法律法规](chang-shi/falfa-gui.md)
-* [饮食](chang-shi/yin-shi.md)
