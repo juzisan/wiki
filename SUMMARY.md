@@ -21,3 +21,9 @@
   * [表情](li-zi/biao-qing.md)
 * [博客及备份](bo-ke-ji-bei-fen.md)
 * [口罩](kou-zhao.md)
+
+## 常识
+
+* [上网](chang-shi/shang-wang.md)
+* [法律法规](chang-shi/falfa-gui.md)
+* [饮食](chang-shi/yin-shi.md)
