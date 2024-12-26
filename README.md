@@ -4,9 +4,11 @@ description: hello Anaconda
 
 # 我的个人博客
 
-每当想起来消失的wordpress，TMD的生气啦
+每当想起来消失的wordpress，TMD的生气啦，还得是自建的牢靠
 
-还得是自建的牢靠
+2025Years,Wake
+
+
 
 ## **我的收藏夹**
 
