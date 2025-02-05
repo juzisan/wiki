@@ -33,7 +33,10 @@ description: hello Anaconda
 * Y 优聚集 [https://www.youjuji.com/](https://www.youjuji.com/) 网站聚合
 * Y 有道云笔记 [https://note.youdao.com/web/](https://note.youdao.com/web/)
 
+## Ai
 
+* Vivo 蓝心千询 [https://qianxun.vivo.com/#/explore](https://qianxun.vivo.com/#/explore)
+* T 通义 [https://tongyi.aliyun.com/](https://tongyi.aliyun.com/)
 ## http 下载
 
 * A 爱纯净激活软件 [http://www.aichunjing.com/jhgj1/](http://www.aichunjing.com/jhgj1/)
@@ -63,6 +66,8 @@ description: hello Anaconda
 * EasyRC [https://firpe.cn/page-196](https://firpe.cn/page-196) 重装系统软件
 * W 压缩软件 WinRAR [https://www.rarlab.com/download.htm](https://www.rarlab.com/download.htm)
 * Windows 辅助软件 [https://www.sordum.org/](https://www.sordum.org/)
+* 免费领软件 [https://sharewareonsale.com](https://sharewareonsale.com/product-tag/giveaway+active-deals?os=windows)
+
 
 ## 书籍下载
 
@@ -79,8 +84,10 @@ description: hello Anaconda
 * qBittorrent 增强版 [https://github.com/c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 * bt tracker [https://github.com/XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection)
 * 中文电影 [https://www.btbtt15.com/forum-index-fid-951.htm](https://www.btbtt15.com/forum-index-fid-951.htm)
+* 中文bt电影 [https://www.1lou.me/](https://www.1lou.me/)
 * 游戏下载 [https://fitgirl-repacks.site/](https://fitgirl-repacks.site/)
 * 游戏下载 [https://www.skidrowreloaded.com/](https://www.skidrowreloaded.com/)
+* 游戏下载 [https://igg-games.com](https://igg-games.com/)
 
 ## 域名
 
