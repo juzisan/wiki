@@ -22,7 +22,7 @@
 
 - [lineageos 安装说明](https://wiki.lineageos.org/devices/gemini/install/)
 
-```
+
  
 lineageos 刷机用 sideload   
 
@@ -48,29 +48,22 @@ After the device and Mi account are successfully verified, the bootloader should
 Since the device resets completely, you will need to re-enable USB debugging to continue.
 
 
-Create a Mi account on Xiaomi’s website. Beware that one account can only unlock four unique devices every year (one HyperOS device, three MIUI devices), and even then only once every 30 days.
-Add a phone number to your Mi account.
-Insert a SIM into your phone.
-Enable developer options in Settings > About Phone by repeatedly tapping MIUI Version.
-Link the device to your Mi account in Settings > Additional settings > Developer options > Mi Unlock status.
-Download the Mi Unlock app (or v7.6.727.43).
-Ensure that your device has the appropriate drivers installed by running driver_install.exe (for 32-bit) or driver_install_64.exe (for 64-bit), which are included with Mi Unlock, otherwise, the Mi Unlock app may not detect your device.
-Run the Mi Unlock app and follow the instructions provided by the app. The app may tell you that you have to wait up to 30 days. If it does so, please wait for the quoted amount of time before continuing to the next step! It is ideal to start this step at midnight (GMT+8), as Xiaomi only allows a limited number of devices to be unlocked each day.
-After the device and Mi account are successfully verified, the bootloader should be unlocked.
-Since the device resets completely, you will need to re-enable USB debugging to continue.
-
 
 Download Lineage Recovery. Simply download the latest recovery file, named recovery.img.
 warning
 Important: Other recoveries may not work for installation or updates. We strongly recommend to use the one linked above!
 Connect your device to your PC via USB if it isn’t already.
 If your device isn’t already in fastboot mode, on the computer, open a command prompt (on Windows) or terminal (on Linux or macOS) window, and type:
-adb -d reboot bootloader
+
+`adb -d reboot bootloader`
+
 You can also boot into fastboot mode via a key combination:
 
-With the device powered off, hold Volume Down + Power. Keep holding both buttons until the word “FASTBOOT” appears on the screen, then release.
+With the device powered off, hold` Volume Down + Power`. Keep holding both buttons until the word “FASTBOOT” appears on the screen, then release.
 Once the device is in fastboot mode, verify your PC finds it by typing:
-fastboot devices
+
+`fastboot devices`
+
 If you don’t get any output or an error:
 
 on Windows: make sure the device appears in the device manager without a triangle. Try other drivers until the command above works!
@@ -91,18 +84,18 @@ Note: If your recovery does not show the LineageOS logo  , you accidentally boot
 
 Download the LineageOS zip file that you would like to install or build the package yourself.
 If you are not in recovery, reboot into recovery:
-With the device powered off, hold Volume Up + Power. Keep holding both buttons until the “MI” logo appears on the screen, then release.
+With the device powered off, hold `Volume Up + Power`. Keep holding both buttons until the “MI” logo appears on the screen, then release.
 Now tap Factory Reset, then Format data / factory reset and continue with the formatting process. This will remove encryption and delete all files stored in the internal storage, as well as format your cache partition (if you have one).
 Return to the main menu.
 Sideload the LineageOS .zip package but do not reboot before you read/followed the rest of the instructions!
-On the device, select “Apply Update”, then “Apply from ADB” to begin sideload.
-On the host machine, sideload the package using: adb -d sideload filename.zip.
+On the device, select “`Apply Update`”, then “`Apply from ADB`” to begin sideload.
+On the host machine, sideload the package using: `adb -d sideload `filename.zip.
 check
 Tip: Normally, adb will report Total xfer: 1.00x, but in some cases, even if the process succeeds the output will stop at 47% and report adb: failed to read command: Success. In some cases it will report adb: failed to read command: No error or adb: failed to read command: Undefined error: 0 which is also fine.
 
 
 
-Click Apply Update, then Apply from ADB, then adb -d sideload filename.zip for all desired packages in sequence.
+Click Apply Update, then Apply from ADB, then `adb -d sideload `filename.zip for all desired packages in sequence.
 When presented with a screen that says Signature verification failed, click Yes. It is expected as add-ons aren’t signed with LineageOS’s official key!
  
 
@@ -121,24 +114,20 @@ Windows users will need proper drivers installed on their computer. You can try 
 
 On your device, go into Settings -> About and find the Build Number and tap on it 7 times to enable developer settings. Press back and go into Developer Options and enable USB debugging. From your computer, open a command prompt and type:
 
-adb reboot bootloader
+`adb reboot bootloader`
 
 You should now be in fastboot mode.
 
 Download the correct image file and copy the file into the same folder as your platform-tools. Rename the image to twrp.img and type:
 
-fastboot flash recovery twrp.img
+`fastboot flash recovery twrp.img`
 
-fastboot reboot
+`fastboot reboot`
 
 Note many devices will replace your custom recovery automatically during first boot. To prevent this, use Google to find the proper key combo to enter recovery. After typing fastboot reboot, hold the key combo and boot to TWRP. Once TWRP is booted, TWRP will patch the stock ROM to prevent the stock ROM from replacing TWRP. If you don't follow this step, you will have to repeat the install.
 
 ----------------------------------------------------------------
 
-欢迎访问万维手机维修，请注册会员登录本站，最全！最新！最纯净!海量原厂线刷包免费下载！（建议收藏本站，方便您下次访问）
-您需要 登录 才可以下载或查看，没有帐号？立即注册 
-
-x
 
 说明:
 如果想刷第三方ROM，或者无法使用MIUI内置卡刷功能的受限版本，唯一的办法就是通过安装第三方恢复来刷机。
@@ -159,14 +148,20 @@ TWRP 刷入步骤
 
 
 4.电脑打开刚刚解压好的platform-tools文件夹，按住Shift键，同时在文件夹的空白处点击右键，在右键菜单中点击“在此打开Powershell窗口”。运行以下命令在TWRP刷(自己替换文件名)。
+
 fastboot flash recovery twrp-3.4.0-0-davinci.img
+
 注意:如果你不想安装TWRP，但只是暂时使用TWRP，运行以下命令(自己替换文件名)并忽略第5步。
+
 fastboot boot twrp-3.4.0-0-davinci.img
+
 如果你在运行命令后不能启动TWRP，你会一直停留在引导界面。也许TWRP版本改编有问题。可以尝试使用第三方版本。
 
 
 5.为了防止MIUI用官方恢复自动更换手机，按住手机音量键，同时电脑运行以下命令重启手机，直到进入TWRP界面
+
 fastboot reboot
+
 6.进入TWRP后，你会被问到“你想保持系统分区只读吗”。滑动此处按钮允许修改，否则无法禁止MIUI改回官方恢复。
 
 7.由于MIUI会在启动时检查系统分区的完整性，TWRP在最后一步修改了系统分区。此时重启手机会导致系统无法启动(“卡米”问题)。你需要通过刷入Magisk来移除引导验证。步骤如下。
@@ -178,5 +173,7 @@ fastboot reboot
 通过TWRP安装Magisk的图示
 
 由于安装了Magisk，在启动系统后，您会看到一个Magisk管理器软件。是Magisk图形管理软件，自带Root功能，还可以通过安装功能模块扩展更多的玩法。
-```
+
+
+--------------------------------------------------------------
 
