@@ -10,6 +10,7 @@
   * [nas 设置](ji-suan-ji/nas-she-zhi.md)
   * [安卓电脑破解](ji-suan-ji/an-zhuo-dian-nao-po-jie.md)
   * [在线小说阅读app](ji-suan-ji/zai-xian-xiao-shuo-yue-du-app.md)
+  * [安卓手机root](ji-suan-ji/an-zhuo-shou-ji-root.md)
 * [Python](page-4.md)
   * [1. python 运行环境的搭建](python/1.-python-yun-hang-huan-jing-de-da-jian.md)
 * [常识](chang-shi/README.md)
