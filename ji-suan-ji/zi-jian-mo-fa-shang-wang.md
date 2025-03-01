@@ -9,7 +9,7 @@ description: 每年10美元魔法上网，懂原理就很简单了。不限客�
 
 -------------------------------------
 
-##
+## 具体操作步骤
 1. [vps服务器racknerd](https://www.racknerd.com/) 这个一年10美元,选流量大的，美国的，安装Ubuntu系统，之后用root 账号的密码登录ssh软件
 
 2. [mobaxterm](https://filecr.com/windows/mobaxterm/) 推荐的ssh登录软件，记住本地密码，忘记后没办法找回保存的密码。这个下载地址，魔法加速的速度比直接快，bt则无所谓。
