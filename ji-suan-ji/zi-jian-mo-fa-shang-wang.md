@@ -30,3 +30,26 @@ description: 每年10美元魔法上网，懂原理就很简单了。不限客�
 
 7. [浏览器切换代理插件SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega/releases/tag/v2.5.20) 下载安装到谷歌内核浏览器。
 
+8. 服务器服务定时重启
+
+```crontab
+# 编辑定时服务
+
+crontab -u root -e
+
+# 每2小时重启服务，每天3:30重启服务器
+
+0 */2 * * * systemctl restart sing-box;rc-service sing-box restart
+10 */2 * * * systemctl restart --now openvpn-server@server.service
+20 */2 * * * systemctl restart wg-quick@wg0.service
+30 3 * * * reboot
+
+# 查看服务运行时间
+
+ps -eo pid,lstart,etime,cmd | grep 'sing-box'
+
+ps -eo pid,lstart,etime,cmd | grep 'openvpn'
+
+ps -eo pid,lstart,etime,cmd | grep 'wg'
+
+```

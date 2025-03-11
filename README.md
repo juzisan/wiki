@@ -77,12 +77,15 @@ description: hello Anaconda
 
 ## bt 下载
 
+* bt tracker [tracker](https://cf.trackerslist.com/all.txt)
+* bt tracker [https://github.com/XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection)
 * 1377x [https://1337x.to/home/](https://1337x.to/home/)
+* Bt dig [btdig](https://en.btdig.com/)
 * H 海盗湾 [https://thepiratebay.org/index.html](https://thepiratebay.org/index.html)
+* I dope [idope](https://idope.lol/fullsearch?q=top100:400)
 * M magnetdl [https://www.magnetdl.com/](https://www.magnetdl.com/)
 * Z 种子下载合集 [https://torrends.to/](https://torrends.to/)
 * qBittorrent 增强版 [https://github.com/c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
-* bt tracker [https://github.com/XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection)
 * 中文电影bt [https://www.seedhub.cc/](https://www.seedhub.cc/)
 * 中文电影bt [https://www.1lou.me/](https://www.1lou.me/)
 * 游戏下载 [https://fitgirl-repacks.site/](https://fitgirl-repacks.site/)
@@ -92,7 +95,7 @@ description: hello Anaconda
 ## 域名
 
 * 域名注册 [https://sso.godaddy.com/?realm=idp\&app=venture-redirector\&path=/](https://sso.godaddy.com/?realm=idp\&app=venture-redirector\&path=/)
-* 现有域名 [www.juzi23.shop](https://www.juzi23.shop) 到24年7月29
+* 现有域名 [juzsian.site](https://www.juzsian.site) 到34年8月29
 * gitbook [https://www.gitbook.com/](https://www.gitbook.com/)
 * gitbook 个人博客 [https://juzi.gitbook.io/wiki/](https://juzi.gitbook.io/wiki/) 设置 [dns](https://www.dns.com/login.html) 加速访问会快
 * python 在线运行 [https://www.pythonanywhere.com/login/](https://www.pythonanywhere.com/login/)
