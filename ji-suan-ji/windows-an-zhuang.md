@@ -35,7 +35,7 @@ description: Windows 安装介绍
 26. 屏幕截图 [ShareX](https://getsharex.com/)
 27. 游戏平台 [Steam](https://store.steampowered.com/about/)
 28. 虚拟机 [VMWare](https://www.vmware.com/go/getworkstation-win)
-29. 火狐 [firefox]()
+29. 火狐 [firefox繁体](https://www.mozilla.org/en-US/firefox/all/desktop-release/win64/zh-TW/) [uBlock Origin 在线安装地址](https://addons.mozilla.org/addon/ublock-origin/)
 30. 谷歌 chromium 浏览器 [chromium](https://www.chromium.org/getting-involved/dev-channel/)
 31. 谷歌 chrome 浏览器 [chrome](https://www.google.com/chrome/)
 32. ATI [驱动](https://www.amd.com/zh-cn/support/download/drivers.html)

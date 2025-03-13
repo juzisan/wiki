@@ -81,6 +81,7 @@ description: hello Anaconda
 * bt tracker [https://github.com/XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection)
 * 1377x [https://1337x.to/home/](https://1337x.to/home/)
 * Bt dig [btdig](https://en.btdig.com/)
+* Bt 俄罗斯 [rutracker.org](https://rutracker.org/forum/index.php)
 * H 海盗湾 [https://thepiratebay.org/index.html](https://thepiratebay.org/index.html)
 * I dope [idope](https://idope.lol/fullsearch?q=top100:400)
 * M magnetdl [https://www.magnetdl.com/](https://www.magnetdl.com/)
