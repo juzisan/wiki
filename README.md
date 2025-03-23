@@ -57,9 +57,10 @@ description: hello Anaconda
 * GitHub hosts [https://hosts.gitcdn.top/hosts.txt](https://hosts.gitcdn.top/hosts.txt)
 * GitHub hosts [https://raw.hellogithub.com/hosts](https://raw.hellogithub.com/hosts)
 * GitHub hosts [https://raw.hellogithub.com/hosts.json](https://raw.hellogithub.com/hosts.json)
-* Mypal 网页浏览器 [https://www.mypal-browser.org/](https://www.mypal-browser.org/)
 * IPTV [https://www.foodieguide.com/iptvsearch/](https://www.foodieguide.com/iptvsearch/)
+* Kaspersky Virus Removal Tool for Windows® [KVRT](https://devbuilds.s.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe) 杀毒软件
 * L 浏览器代理切换插件 [https://github.com/FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+* Mypal 网页浏览器 [https://www.mypal-browser.org/](https://www.mypal-browser.org/)
 * Moba shell [https://mobaxterm.mobatek.net/](https://mobaxterm.mobatek.net/) Windows shell 窗口 moba2023
 * Office 下载 [https://otp.landian.vip/zh-cn/download.html](https://otp.landian.vip/zh-cn/download.html)
 * WePe [https://www.wepe.com.cn/download.html](https://www.wepe.com.cn/download.html) 好用的维护 PE
@@ -67,6 +68,7 @@ description: hello Anaconda
 * W 压缩软件 WinRAR [https://www.rarlab.com/download.htm](https://www.rarlab.com/download.htm)
 * Windows 辅助软件 [https://www.sordum.org/](https://www.sordum.org/)
 * 免费领软件 [https://sharewareonsale.com](https://sharewareonsale.com/product-tag/giveaway+active-deals?os=windows)
+
 
 
 ## 书籍下载
