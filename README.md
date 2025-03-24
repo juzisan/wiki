@@ -96,8 +96,8 @@ description: hello Anaconda
 * 游戏下载 [https://igg-games.com](https://igg-games.com/)
 
 
-* [IMDb Top 250 Movies](https://www.imdb.com/chart/top/?ref_=helpms_ih_gi_siteindex)
-* [Top 250 TV Shows](https://www.imdb.com/chart/toptv/?ref_=helpms_ih_gi_siteindex)
+* IMDB 电影榜单 [IMDb Top 250 Movies](https://www.imdb.com/chart/top/?ref_=helpms_ih_gi_siteindex)
+* IMDB 电视剧榜单 [Top 250 TV Shows](https://www.imdb.com/chart/toptv/?ref_=helpms_ih_gi_siteindex)
 
 
 ## 域名
