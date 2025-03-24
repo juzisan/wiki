@@ -95,6 +95,11 @@ description: hello Anaconda
 * 游戏下载 [https://www.skidrowreloaded.com/](https://www.skidrowreloaded.com/)
 * 游戏下载 [https://igg-games.com](https://igg-games.com/)
 
+
+* [IMDb Top 250 Movies](https://www.imdb.com/chart/top/?ref_=helpms_ih_gi_siteindex)
+* [Top 250 TV Shows](https://www.imdb.com/chart/toptv/?ref_=helpms_ih_gi_siteindex)
+
+
 ## 域名
 
 * 域名注册 [https://sso.godaddy.com/?realm=idp\&app=venture-redirector\&path=/](https://sso.godaddy.com/?realm=idp\&app=venture-redirector\&path=/)
