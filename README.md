@@ -57,12 +57,14 @@ description: hello Anaconda
 * GitHub hosts [https://hosts.gitcdn.top/hosts.txt](https://hosts.gitcdn.top/hosts.txt)
 * GitHub hosts [https://raw.hellogithub.com/hosts](https://raw.hellogithub.com/hosts)
 * GitHub hosts [https://raw.hellogithub.com/hosts.json](https://raw.hellogithub.com/hosts.json)
+* GitHub switch [https://github.com/oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)
 * IPTV [https://www.foodieguide.com/iptvsearch/](https://www.foodieguide.com/iptvsearch/)
 * Kaspersky Virus Removal Tool for Windows® [KVRT](https://devbuilds.s.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe) 杀毒软件
 * L 浏览器代理切换插件 [https://github.com/FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
 * Mypal 网页浏览器 [https://www.mypal-browser.org/](https://www.mypal-browser.org/)
 * Moba shell [https://mobaxterm.mobatek.net/](https://mobaxterm.mobatek.net/) Windows shell 窗口 moba2023
 * Office 下载 [https://otp.landian.vip/zh-cn/download.html](https://otp.landian.vip/zh-cn/download.html)
+* vivo 软件商店 安卓软件 [apk下载](https://h5.appstore.vivo.com.cn/#/)
 * WePe [https://www.wepe.com.cn/download.html](https://www.wepe.com.cn/download.html) 好用的维护 PE
 * EasyRC [https://firpe.cn/page-196](https://firpe.cn/page-196) 重装系统软件
 * W 压缩软件 WinRAR [https://www.rarlab.com/download.htm](https://www.rarlab.com/download.htm)
