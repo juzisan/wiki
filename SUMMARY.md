@@ -12,6 +12,7 @@
   * [在线小说阅读app](ji-suan-ji/zai-xian-xiao-shuo-yue-du-app.md)
   * [安卓手机root](ji-suan-ji/an-zhuo-shou-ji-root.md)
   * [自建魔法上网](ji-suan-ji/zi-jian-mo-fa-shang-wang.md)
+  * [hosts](ji-suan-ji/hosts.md)
 * [Python](page-4.md)
   * [1. python 运行环境的搭建](python/1.-python-yun-hang-huan-jing-de-da-jian.md)
 * [常识](chang-shi/README.md)
