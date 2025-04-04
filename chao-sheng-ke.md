@@ -2,7 +2,7 @@
 
 ## 继续教育科室管理员
 
-科室管理员登陆 网址 [http://218.60.153.241/lncme/](http://218.60.153.241/lncme/)
+科室管理员登陆 网址 [http://218.60.155.28/lncme/](http://218.60.155.28/lncme/)
 
 
 *   [http://kjptwsw.91huayi.com/](http://kjptwsw.91huayi.com/)
@@ -21,7 +21,7 @@
 
 * 单位有外网的电脑才能用
 * 内网地址 ：[https://11.255.252.199](https://11.255.252.199)
-* 外网地址 ：[http://oa.fskwjzyy.com:9000/](http://oa.fskwjzyy.com:9000/)
+* 外网地址 ：[https://oa.fskwjzyy.com:9000/](http://oa.fskwjzyy.com:9000/)
 
 ### 华润集团统一登录平台
 
@@ -31,7 +31,7 @@
 ### OA 办公网址
 
 * 内网 [http://58.250.26.102:9000/](http://58.250.26.102:9000/)
-* 外网 [http://oa.fskwjzyy.com:9000/](http://oa.fskwjzyy.com:9000/)
+* 外网 [https://oa.fskwjzyy.com:9000/](https://oa.fskwjzyy.com:9000/)
 
 ### ip 地址
 * 急诊 11.11.1.115

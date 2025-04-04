@@ -1,6 +1,6 @@
 # Table of contents
 
-* [我的个人博客](README.md)
+* [主页](README.md)
 * [我的收藏夹](https://juzisan.pythonanywhere.com/)
 * [计算机](ji-suan-ji/README.md)
   * [Linux 安装](ji-suan-ji/linux-an-zhuang.md)
@@ -13,8 +13,9 @@
   * [安卓手机root](ji-suan-ji/an-zhuo-shou-ji-root.md)
   * [自建魔法上网](ji-suan-ji/zi-jian-mo-fa-shang-wang.md)
   * [hosts](ji-suan-ji/hosts.md)
-* [Python](page-4.md)
+* [Python](python/README.md)
   * [1. python 运行环境的搭建](python/1.-python-yun-hang-huan-jing-de-da-jian.md)
+  * [2. python 好习惯](python/2.-python-haoxiguan.md)
 * [常识](chang-shi/README.md)
   * [饮食](chang-shi/yin-shi.md)
   * [上网](chang-shi/shang-wang.md)
@@ -22,10 +23,16 @@
 * [初入互联网](chu-ru-hu-lian-wang.md)
 * [超声科](chao-sheng-ke.md)
 * [汽车](qi-che.md)
-* [例子](li-zi/README.md)
+* [博客及备份](bo-ke-ji-bei-fen.md)
+* [口罩](kou-zhao.md)
+
+## gitbook 例子分组
+
+* [例子](li-zi/README.md.md)
   * [例子gitbook](li-zi/li-zi-gitbook.md)
   * [例子一](li-zi/li-zi-yi.md)
   * [一号标题](li-zi/yi-hao-biao-ti.md)
   * [表情](li-zi/biao-qing.md)
-* [博客及备份](bo-ke-ji-bei-fen.md)
-* [口罩](kou-zhao.md)
+  * [加上一个新的](li-zi/jia-shang-yi-ge-xin-de.md)
+  * [Markdown语法帮助](li-zi/Markdown-yu-fa-bang-zhu.md)
+  * 

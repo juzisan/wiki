@@ -41,6 +41,13 @@ description: Windows 安装介绍
 32. ATI [驱动](https://www.amd.com/zh-cn/support/download/drivers.html)
 33. unigetui 升级软件和下载 [unigetui](https://www.marticliment.com/unigetui/#mirrors)
 
+
+## 图像编辑
+1. photoshop 破解 [ftuapps](https://ftuapps.com)
+2. photoshop 破解 m0nkrus bt 发布
+3. DxO PhotoLab 破解 [ftuapps](https://ftuapps.com)
+
+
 ## moonlight 和 sunshine
 
 * moonlight 局域网串流客户端 [https://moonlight-stream.org/](https://moonlight-stream.org/)
@@ -56,3 +63,9 @@ description: Windows 安装介绍
 1. 打开组策略，在“本地计算机策略 > 计算机配置 > 管理模板 > 网络 > Lanman 工作站”中启用“启用不安全的来宾登录”。
 2. 打开组策略，在”本地计算机策略 > 计算机配置 > Windows 设置 > 安全设置 > 本地策略>安全选项”中禁用“Microsoft 网络客户端：对通信进行数字签名（始终）”。
 3. 立即生效。
+
+## 关机和重启
+- 关机 `shutdown -p`
+- 重启 `shutdown -r -t 0`
+
+
