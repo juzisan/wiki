@@ -16,6 +16,7 @@ Windows Registry Editor Version 5.00
 4. 打开 控制面板-管理工具-任务计划程序---》 创建基本任务---》输入名称、描述---》选择执行的操作，选择启动程序---》执行命令 `shutdown -r -f` 命令---》勾选，打开任务属性对话框---》选择不管用户是否登录都要运行，不选不存储密码
 5. 安装 [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) ，设置下载位置为E盘，改 [tracker](https://cf.trackerslist.com/all.txt)
 6. 电脑访问 `\\10.10.10.11`
+7. win10 用 cmd 查看系启动时间 `systeminfo | find "系统启动时间"`
 
 
 ## 解决 Win11 无法访问 samba：
