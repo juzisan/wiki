@@ -84,6 +84,8 @@ description: hello Anaconda
 
 * bt tracker [tracker](https://cf.trackerslist.com/all.txt)
 * bt tracker [https://github.com/XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection)
+* bt tracker [2千多](https://github.com/adysec/tracker)
+* bt 搜索网站合集 [qb搜索插件](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 * 1377x [https://1337x.to/home/](https://1337x.to/home/)
 * Bt dig [btdig](https://en.btdig.com/)
 * Bt rarbg [therarbg](https://therarbg.com/)
@@ -125,3 +127,6 @@ description: hello Anaconda
 
 * [https://imgchr.com](https://imgchr.com)
 
+
+## powertoys 快捷键
+win+shift+T OCR

@@ -41,6 +41,13 @@ description: Windows 安装介绍
 32. ATI [驱动](https://www.amd.com/zh-cn/support/download/drivers.html)
 33. unigetui 升级软件和下载 [unigetui](https://www.marticliment.com/unigetui/#mirrors)
 
+
+## 图像编辑
+1. photoshop 破解 [ftuapps](https://ftuapps.com)
+2. photoshop 破解 m0nkrus bt 发布
+3. DxO PhotoLab 破解 [ftuapps](https://ftuapps.com)
+
+
 ## moonlight 和 sunshine
 
 * moonlight 局域网串流客户端 [https://moonlight-stream.org/](https://moonlight-stream.org/)
