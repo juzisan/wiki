@@ -113,6 +113,7 @@ description: hello Anaconda
 * 现有域名 [juzsian.site](https://www.juzsian.site) 到34年8月29
 * 域名解析 [cloudflare-cn](https://www.cloudflare-cn.com/) 根域名解析到 www
 * 域名重定向 [redirhub](https://www.redirhub.com/)
+* 内网穿透 免费 [cpolar](https://www.cpolar.com/) 比花生壳好用多了
 * gitbook [https://www.gitbook.com/](https://www.gitbook.com/)
 * gitbook 个人博客 [https://juzi.gitbook.io/wiki/](https://juzi.gitbook.io/wiki/) 设置 [dns](https://www.dns.com/login.html) 加速访问会快
 * python 在线运行 [https://www.pythonanywhere.com/login/](https://www.pythonanywhere.com/login/)
