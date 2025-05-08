@@ -27,5 +27,6 @@
   * [例子一](li-zi/li-zi-yi.md)
   * [一号标题](li-zi/yi-hao-biao-ti.md)
   * [表情](li-zi/biao-qing.md)
+  * [加上一个新的](li-zi/jia-shang-yi-ge-xin-de.md)
 * [博客及备份](bo-ke-ji-bei-fen.md)
 * [口罩](kou-zhao.md)
