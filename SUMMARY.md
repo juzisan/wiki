@@ -27,7 +27,7 @@
 
 ## 例子
 
-  * [例子](li-zi/README.md)
+* [例子](li-zi/README.md)
   * [例子gitbook](li-zi/li-zi-gitbook.md)
   * [例子一](li-zi/li-zi-yi.md)
   * [一号标题](li-zi/yi-hao-biao-ti.md)
