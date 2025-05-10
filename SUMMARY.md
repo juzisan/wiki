@@ -1,6 +1,6 @@
 # Table of contents
 
-* [我的个人博客](README.md)
+* [主页](README.md)
 * [我的收藏夹](https://juzisan.pythonanywhere.com/)
 * [计算机](ji-suan-ji/README.md)
   * [Linux 安装](ji-suan-ji/linux-an-zhuang.md)
@@ -35,3 +35,4 @@
   * [表情](li-zi/biao-qing.md)
   * [加上一个新的](li-zi/jia-shang-yi-ge-xin-de.md)
   * [Markdown语法帮助](li-zi/Markdown-yu-fa-bang-zhu.md)
+  * 
