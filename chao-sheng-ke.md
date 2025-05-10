@@ -31,7 +31,7 @@
 ### OA 办公网址
 
 * 内网 [http://58.250.26.102:9000/](http://58.250.26.102:9000/)
-* 外网 [http://oa.fskwjzyy.com:9000/](http://oa.fskwjzyy.com:9000/)
+* 外网 [https://oa.fskwjzyy.com:9000/](http://oa.fskwjzyy.com:9000/)
 
 ### ip 地址
 * 急诊 11.11.1.115
