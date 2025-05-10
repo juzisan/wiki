@@ -22,12 +22,15 @@
 * [初入互联网](chu-ru-hu-lian-wang.md)
 * [超声科](chao-sheng-ke.md)
 * [汽车](qi-che.md)
-* [例子](li-zi/README.md)
-  * [例子gitbook](li-zi/li-zi-gitbook.md)
-  * [例子一](li-zi/li-zi-yi.md)
-  * [一号标题](li-zi/yi-hao-biao-ti.md)
-  * [表情](li-zi/biao-qing.md)
-  * [加上一个新的](li-zi/jia-shang-yi-ge-xin-de.md)
-  * [Markdown语法帮助](li-zi/Markdown-yu-fa-bang-zhu.md)
 * [博客及备份](bo-ke-ji-bei-fen.md)
 * [口罩](kou-zhao.md)
+
+## 例子
+
+* [例子](li-zi/README.md)
+* [例子gitbook](li-zi/li-zi-gitbook.md)
+* [例子一](li-zi/li-zi-yi.md)
+* [一号标题](li-zi/yi-hao-biao-ti.md)
+* [表情](li-zi/biao-qing.md)
+* [加上一个新的](li-zi/jia-shang-yi-ge-xin-de.md)
+* [Markdown语法帮助](li-zi/Markdown-yu-fa-bang-zhu.md)
