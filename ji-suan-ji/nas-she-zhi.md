@@ -17,6 +17,23 @@ Windows Registry Editor Version 5.00
 5. 安装 [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) ，设置下载位置为E盘，改 [tracker](https://cf.trackerslist.com/all.txt)
 6. 电脑访问 `\\10.10.10.11`
 7. win10 用 cmd 查看系启动时间 `systeminfo | find "系统启动时间"`
+8. 按下 win+r 在框中输入`shell:Startup` 就会出现添加快捷方式到启动目录
+
+   步骤一：需要先激活自动登录选项，方法是修改注册表，依次展开
+
+   `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\PasswordLess\Device`
+
+   将 `DevicePasswordLessBuildVersion` 的值改为 0，并点击【确定】按钮。重启计算机。
+
+   步骤二：按下 win+r 在框中输入 `netplwiz` 指令
+
+   在弹出的窗口中选择要自动登录的用户，然后取消勾选“要使用本计算机，用户必须输入用户名和密码”
+
+   在弹出的窗口中输入上一步对应的用户名和密码，单击【确定】按钮。
+
+   单击重新启动，自动登录设置完成。
+
+
 
 
 ## 解决 Win11 无法访问 samba：
