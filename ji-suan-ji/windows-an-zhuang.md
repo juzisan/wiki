@@ -20,26 +20,28 @@ description: Windows 安装介绍
 13. Filecr [https://filecr.com/en/](https://filecr.com/en/) 破解软件下载
 14. FreeCommander [https://freecommander.com/en/downloads-portable/](https://freecommander.com/en/downloads-portable/)
     windows 文件管理软件
-14. Moba shell [https://mobaxterm.mobatek.net/](https://mobaxterm.mobatek.net/) Windows shell 窗口 moba2023
-15. Office 下载 [https://otp.landian.vip/zh-cn/download.html](https://otp.landian.vip/zh-cn/download.html)
-16. W 压缩软件 WinRAR [https://www.rarlab.com/download.htm](https://www.rarlab.com/download.htm)
-17. http 下载软件 [IDM ](https://filecr.com/windows/internet-download-manager/?id=187919616000)
-18. OCR 软件 [ABBYY FineReader](https://filecr.com/windows/finereader/?id=202552448000)
-19. 显示帧率 两个软件一起工作 [CapFrameX](https://www.capframex.com/download) [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)
-20. 看图软件 [Honeyview](https://www.bandisoft.com/honeyview/)
-21. 文本编辑器 [Kate](https://kate-editor.org/zh-cn/get-it/) [UltraEdit](https://filecr.com/windows/idm-ultra-edit-0001/?id=587332864000)
-22. markdown 编辑器 [HBuilderX](https://www.dcloud.io/hbuilderx.html)
-23. 视频播放器 [PotPlayer](https://potplayer.tv/?lang=zh_CN) 恒星播放器(需要自行下载破解版，用来播放特殊高清视频)
-24. 视频音频照片格式转换 [File Converter](https://github.com/Tichau/FileConverter/releases)
-25. 系统增强 [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install) [NirLauncher](https://launcher.nirsoft.net/downloads/index.html)
-26. 屏幕截图 [ShareX](https://getsharex.com/)
-27. 游戏平台 [Steam](https://store.steampowered.com/about/)
-28. 虚拟机 [VMWare](https://www.vmware.com/go/getworkstation-win)
-29. 火狐 [firefox繁体](https://www.mozilla.org/en-US/firefox/all/desktop-release/win64/zh-TW/) [uBlock Origin 在线安装地址](https://addons.mozilla.org/addon/ublock-origin/)
-30. 谷歌 chromium 浏览器 [chromium下载地址](https://download-chromium.appspot.com/)
-31. 谷歌 chrome 浏览器 [chrome](https://www.google.com/chrome/) 
-32. ATI [驱动](https://www.amd.com/zh-cn/support/download/drivers.html)
-33. unigetui 升级软件和下载 [unigetui](https://www.marticliment.com/unigetui/#mirrors)
+15. Moba shell [https://mobaxterm.mobatek.net/](https://mobaxterm.mobatek.net/) Windows shell 窗口 moba2023
+16. Office 下载 [https://otp.landian.vip/zh-cn/download.html](https://otp.landian.vip/zh-cn/download.html)
+17. W 压缩软件 WinRAR [https://www.rarlab.com/download.htm](https://www.rarlab.com/download.htm)
+18. http 下载软件 [IDM ](https://filecr.com/windows/internet-download-manager/?id=187919616000)
+19. OCR 软件 [ABBYY FineReader](https://filecr.com/windows/finereader/?id=202552448000)
+20. 显示帧率 两个软件一起工作 [CapFrameX](https://www.capframex.com/download) [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)
+21. 看图软件 [Honeyview](https://www.bandisoft.com/honeyview/)
+22. 文本编辑器 [Kate](https://kate-editor.org/zh-cn/get-it/) [UltraEdit](https://filecr.com/windows/idm-ultra-edit-0001/?id=587332864000)
+23. markdown 编辑器 [HBuilderX](https://www.dcloud.io/hbuilderx.html)
+24. 视频播放器 [PotPlayer](https://potplayer.tv/?lang=zh_CN) 恒星播放器(需要自行下载破解版，用来播放特殊高清视频)
+25. 视频音频照片格式转换 [File Converter](https://github.com/Tichau/FileConverter/releases)
+26. 系统增强 [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install) [NirLauncher](https://launcher.nirsoft.net/downloads/index.html)
+27. 屏幕截图 [ShareX](https://getsharex.com/)
+28. 游戏平台 [Steam](https://store.steampowered.com/about/)
+29. 虚拟机 [VMWare](https://www.vmware.com/go/getworkstation-win)
+30. 火狐 [firefox繁体](https://www.mozilla.org/en-US/firefox/all/desktop-release/win64/zh-TW/) [uBlock Origin 在线安装地址](https://addons.mozilla.org/addon/ublock-origin/)
+31. 谷歌 chromium 浏览器 [chromium下载地址](https://download-chromium.appspot.com/)
+32. 谷歌 chrome 浏览器 [chrome](https://www.google.com/chrome/) 
+33. ATI [驱动](https://www.amd.com/zh-cn/support/download/drivers.html)
+34. unigetui 升级软件和下载 [unigetui](https://www.marticliment.com/unigetui/#mirrors)
+35. 开源数值计算 [octave](https://octave.org/download)
+36. 开源数值计算 [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/download.html)
 
 
 ## 图像编辑
@@ -67,5 +69,4 @@ description: Windows 安装介绍
 ## 关机和重启
 - 关机 `shutdown -p`
 - 重启 `shutdown -r -t 0`
-
 

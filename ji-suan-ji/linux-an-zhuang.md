@@ -245,6 +245,26 @@ cd /opt/alist
 - [fedora 下载](https://fedoraproject.org/workstation/)
 
 ### 2. fedora 设置
+
+- 换清华源  [fedora | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/help/fedora/)
+
+  ```bash
+  sudo sed -e 's|^metalink=|#metalink=|g' \
+      -e 's|^#baseurl=http://download.example/pub/fedora/linux|baseurl=https://mirrors.tuna.tsinghua.edu.cn/fedora|g' \
+      -i.bak \
+      /etc/yum.repos.d/fedora.repo \
+      /etc/yum.repos.d/fedora-updates.repo
+  ```
+
+- 更新系统 
+
+  ```bash
+  sudo dnf clean all && sudo dnf makecache
+  sudo dnf upgrade
+  ```
+
+- 
+
 - `sudo passwd root` 改 root 密码 
 - 关闭wayland
 
@@ -286,6 +306,8 @@ sudo flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub
 3. 下载 [edge](https://www.microsoft.com/en-us/edge/download?form=MA13RB) [vivaldi](https://vivaldi.com/zh-hans/)
 4. [flathub](https://flathub.org/) gitkraken `flatpak install flathub com.axosoft.GitKraken`
 5. `sudo snap install v4freedom`
+6. [gitkraken rpm](https://www.gitkraken.com/download/linux-rpm)
+7. flatpak 安装 pycharm `flatpak install flathub com.jetbrains.PyCharm-Professional`
 
 ---
 
