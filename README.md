@@ -50,6 +50,7 @@ description: hello Anaconda
 * Filecr [https://filecr.com/en/](https://filecr.com/en/) 破解软件下载
 * FinalFanatasy 测试性能 [http://benchmark.finalfantasyxv.com/na/](http://benchmark.finalfantasyxv.com/na/)
 * FreeCommander [https://freecommander.com/en/downloads-portable/](https://freecommander.com/en/downloads-portable/) windows 文件管理软件
+* Github hosts [“GitHub.com”A记录/cname检测结果--Dns查询|dns查询--站长工具](https://tool.chinaz.com/dns/GitHub.com) 直接改`   gitHub.com` 
 * GitHub 镜像 [https://help.kgithub.com](https://help.kgithub.com/)
 * GitHub 镜像 [https://gitclone.com/](https://gitclone.com/)
 * GitHub 加速 [https://github.com/521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
