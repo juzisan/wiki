@@ -1,8 +1,16 @@
 # 超声科
 
-## 继续教育科室管理员
+## 继续教育
 
-科室管理员登陆 网址 [http://218.60.155.28/lncme/](http://218.60.155.28/lncme/)
+
+
+```html
+http://218.60.155.28/lncme/
+21040797-0902-2
+jxjy@2023
+```
+
+
 
 
 *   [http://kjptwsw.91huayi.com/](http://kjptwsw.91huayi.com/)
