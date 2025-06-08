@@ -42,12 +42,20 @@ description: Windows 安装介绍
 34. unigetui 升级软件和下载 [unigetui](https://www.marticliment.com/unigetui/#mirrors)
 35. 开源数值计算 [octave](https://octave.org/download)
 36. 开源数值计算 [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/download.html)
+37. 开源批量重命名软件 [GitHub - ilgnefz/once_power: 🛠 A tool based on Flutter for bulk renaming files and the ability to remove useless nested folders](https://github.com/ilgnefz/once_power)
+38. 杀毒软件 [卡巴斯基免费杀毒软件下载 2025 | 卡巴斯基](https://www.kaspersky.com.cn/downloads/free-antivirus)
+39. 
+
+
+
 
 
 ## 图像编辑
+
 1. photoshop 破解 [ftuapps](https://ftuapps.com)
 2. photoshop 破解 m0nkrus bt 发布
 3. DxO PhotoLab 破解 [ftuapps](https://ftuapps.com)
+
 
 
 ## moonlight 和 sunshine
@@ -59,6 +67,7 @@ description: Windows 安装介绍
 * sunshine 默认管理网址 [https://localhost:47990/](https://localhost:47990/)
 
 
+
 ## 设置
 
 两步解决Windows11 24H2 专业版无法访问局域网共享：
@@ -66,7 +75,10 @@ description: Windows 安装介绍
 2. 打开组策略，在”本地计算机策略 > 计算机配置 > Windows 设置 > 安全设置 > 本地策略>安全选项”中禁用“Microsoft 网络客户端：对通信进行数字签名（始终）”。
 3. 立即生效。
 
+
+
 ## 关机和重启
+
 - 关机 `shutdown -p`
 - 重启 `shutdown -r -t 0`
 
