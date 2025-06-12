@@ -44,7 +44,8 @@ description: Windows 安装介绍
 36. 开源数值计算 [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/download.html)
 37. 开源批量重命名软件 [GitHub - ilgnefz/once_power: 🛠 A tool based on Flutter for bulk renaming files and the ability to remove useless nested folders](https://github.com/ilgnefz/once_power)
 38. 杀毒软件 [卡巴斯基免费杀毒软件下载 2025 | 卡巴斯基](https://www.kaspersky.com.cn/downloads/free-antivirus)
-39. 
+39. 本地视频播放器 [Media Player Codec Pack Plus](https://www.mediaplayercodecpack.com/plus/)
+40. 
 
 
 
