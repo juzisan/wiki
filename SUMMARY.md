@@ -21,6 +21,7 @@
   * [饮食](chang-shi/yin-shi.md)
   * [上网](chang-shi/shang-wang.md)
   * [法律法规](chang-shi/falfa-gui.md)
+  * [医学](chang-shi/yi-xue.md)
 * [初入互联网](chu-ru-hu-lian-wang.md)
 * [超声科](chao-sheng-ke.md)
 * [汽车](qi-che.md)

@@ -21,6 +21,7 @@ description: hello Anaconda
 * G 谷歌搜索镜像 [http://dir.scmor.com/](http://dir.scmor.com/)
 * Gpt [https://cc.ai55.cc/](https://cc.ai55.cc/) 公众号 赞美青春
 * Gpt GitHub [https://github.com/xx025/carrot](https://github.com/xx025/carrot)
+* Human Platform 在线人体解剖 [BioDigital Human Platform](https://human.biodigital.com/explore)
 * iTab浏览器网页标签 [https://www.itab.link/install/chrome.html](https://www.itab.link/install/chrome.html)
 * 纽曼 [http://nk.newsmy-gps.com/index.html](http://nk.newsmy-gps.com/index.html)
 * MD [net-MD 管理](https://web.minidisc.wiki/) [net-MD 安装](https://post.smzdm.com/p/a60058le/)
@@ -30,6 +31,7 @@ description: hello Anaconda
 * Vivo 互传 [http://as.vivo.com/](http://as.vivo.com/)
 * W 微信 [https://wx.qq.com/](https://wx.qq.com/)
 * Y 一刻相册 [https://photo.baidu.com/photo/web/home](https://photo.baidu.com/photo/web/home)
+* Y yandex 搜索引擎 [yandex](https://yandex.by/)
 * Y 英译英 [https://www.urbandictionary.com/](https://www.urbandictionary.com/)
 * Y 优聚集 [https://www.youjuji.com/](https://www.youjuji.com/) 网站聚合
 * Y 有道云笔记 [https://note.youdao.com/web/](https://note.youdao.com/web/)
@@ -66,6 +68,7 @@ description: hello Anaconda
 * Mypal 网页浏览器 [https://www.mypal-browser.org/](https://www.mypal-browser.org/)
 * Moba shell [https://mobaxterm.mobatek.net/](https://mobaxterm.mobatek.net/) Windows shell 窗口 moba2023
 * Office 下载 [https://otp.landian.vip/zh-cn/download.html](https://otp.landian.vip/zh-cn/download.html)
+* Rufus [轻松创建 USB 启动盘](https://rufus.ie/zh/)
 * vivo 软件商店 安卓软件 [apk下载](https://h5.appstore.vivo.com.cn/#/)
 * WePe [https://www.wepe.com.cn/download.html](https://www.wepe.com.cn/download.html) 好用的维护 PE
 * EasyRC [https://firpe.cn/page-196](https://firpe.cn/page-196) 重装系统软件

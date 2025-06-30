@@ -32,7 +32,7 @@ description: Windows 安装介绍
 24. 视频播放器 [PotPlayer](https://potplayer.tv/?lang=zh_CN) 恒星播放器(需要自行下载破解版，用来播放特殊高清视频)
 25. 视频音频照片格式转换 [File Converter](https://github.com/Tichau/FileConverter/releases)
 26. 系统增强 [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install) [NirLauncher](https://launcher.nirsoft.net/downloads/index.html)
-27. 屏幕截图 [ShareX](https://getsharex.com/)
+27. 屏幕截图 [ShareX](https://getsharex.com/) F1截屏
 28. 游戏平台 [Steam](https://store.steampowered.com/about/)
 29. 虚拟机 [VMWare](https://www.vmware.com/go/getworkstation-win)
 30. 火狐 [firefox繁体](https://www.mozilla.org/en-US/firefox/all/desktop-release/win64/zh-TW/) [uBlock Origin 在线安装地址](https://addons.mozilla.org/addon/ublock-origin/)
@@ -45,7 +45,15 @@ description: Windows 安装介绍
 37. 开源批量重命名软件 [GitHub - ilgnefz/once_power: 🛠 A tool based on Flutter for bulk renaming files and the ability to remove useless nested folders](https://github.com/ilgnefz/once_power)
 38. 杀毒软件 [卡巴斯基免费杀毒软件下载 2025 | 卡巴斯基](https://www.kaspersky.com.cn/downloads/free-antivirus)
 39. 本地视频播放器 [Media Player Codec Pack Plus](https://www.mediaplayercodecpack.com/plus/)
-40. 
+40. 文本编辑器 [notepad--](https://gitee.com/cxasm/notepad--)
+41. 看图软件 [BandiView](https://filecr.com/windows/bandiview-pro/)
+42. 桌面图标整理 [GeekDesk](https://gitee.com/dotnetchina/GeekDesk)
+43. 屏幕截图软件 [Snipaste](https://docs.snipaste.com/zh-cn/download) F1截屏
+44. 系统辅助软件 [NirLauncher](https://launcher.nirsoft.net/downloads/index.html)
+45. vivo办公套件 [官方下载](https://quantumkit.vivo.com/#/)
+46. fastcopy Windows 快速复制文件 https://filecr.com/windows/fastcopy-pro/
+47. 
+48. 
 
 
 
