@@ -135,6 +135,8 @@ description: hello Anaconda
 ## 图床&#x20;
 
 * [https://imgchr.com](https://imgchr.com)
+* [识字体网-在线图片字体识别扫一扫网站](https://www.likefont.com/)
+* [字体天下-提供各类字体的免费下载和在线预览服务](https://www.fonts.net.cn/)
 
 
 ## powertoys 快捷键
