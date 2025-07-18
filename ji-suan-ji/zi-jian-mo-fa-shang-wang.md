@@ -53,3 +53,7 @@ ps -eo pid,lstart,etime,cmd | grep 'openvpn'
 ps -eo pid,lstart,etime,cmd | grep 'wg'
 
 ```
+
+## apk 翻墙软件
+1.  小火箭 https://rocketapp666.github.io/
+2.  v4freedom https://v4freedom.com/
