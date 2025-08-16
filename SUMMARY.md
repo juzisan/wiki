@@ -17,6 +17,8 @@
   * [1. python 运行环境的搭建](python/1.-python-yun-hang-huan-jing-de-da-jian.md)
   * [2. python 好习惯](python/2.-python-haoxiguan.md)
   * [3. python 数学计算](python/3.-python-shu-xue-ji-suan.md)
+* [中小学编程](zhong-xiao-xue/README.md)
+  * [1.数学](zhong-xiao-xue/1.-shu-xue.md) 
 * [常识](chang-shi/README.md)
   * [饮食](chang-shi/yin-shi.md)
   * [上网](chang-shi/shang-wang.md)
