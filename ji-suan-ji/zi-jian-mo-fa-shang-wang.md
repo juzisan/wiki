@@ -57,3 +57,9 @@ ps -eo pid,lstart,etime,cmd | grep 'wg'
 ## apk 翻墙软件
 1.  [小火箭](https://rocketapp666.github.io/)
 2.  [v4freedom](https://v4freedom.com/) 
+
+
+
+##  电脑端另类vpn
+
+[Cloudflare WARP](https://developers.cloudflare.com/warp-client/get-started/windows/) 必须在梯子的情况下连接，等连接上就可以退了梯子了，好奇怪的啊。
