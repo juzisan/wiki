@@ -17,8 +17,8 @@
   * [1. python 运行环境的搭建](python/1.-python-yun-hang-huan-jing-de-da-jian.md)
   * [2. python 好习惯](python/2.-python-haoxiguan.md)
   * [3. python 数学计算](python/3.-python-shu-xue-ji-suan.md)
-* [中小学编程](zhong-xiao-xue/README.md)
-  * [1.数学](zhong-xiao-xue/1.-shu-xue.md) 
+* [中小学编程](zhong-xiao-xue-bian-cheng/README.md)
+  * [1.数学](zhong-xiao-xue-bian-cheng/1.-shu-xue.md)
 * [常识](chang-shi/README.md)
   * [饮食](chang-shi/yin-shi.md)
   * [上网](chang-shi/shang-wang.md)
@@ -32,11 +32,10 @@
 
 ## gitbook 例子分组
 
-* [例子](li-zi/README.md.md)
+* [例子](gitbook-li-zi-fen-zu/li-zi/README.md)
   * [例子gitbook](li-zi/li-zi-gitbook.md)
   * [例子一](li-zi/li-zi-yi.md)
   * [一号标题](li-zi/yi-hao-biao-ti.md)
   * [表情](li-zi/biao-qing.md)
   * [加上一个新的](li-zi/jia-shang-yi-ge-xin-de.md)
   * [Markdown语法帮助](li-zi/Markdown-yu-fa-bang-zhu.md)
-  * 

@@ -22,7 +22,8 @@ description: hello Anaconda
 * Gpt [https://cc.ai55.cc/](https://cc.ai55.cc/) 公众号 赞美青春
 * Gpt GitHub [https://github.com/xx025/carrot](https://github.com/xx025/carrot)
 * Human Platform 在线人体解剖 [BioDigital Human Platform](https://human.biodigital.com/explore)
-* iTab浏览器网页标签 [https://www.itab.link/install/chrome.html](https://www.itab.link/install/chrome.html)
+* iTab浏览器网页标签 [https://www.itab.link/install/chrome.html](https://www.itab.link/install/chrome.html) 网页收藏快捷方式 [https://go.itab.link](https://go.itab.link)
+* LaTex 公式在线编辑 [https://www.latexlive.com/](https://www.latexlive.com/)
 * 纽曼 [http://nk.newsmy-gps.com/index.html](http://nk.newsmy-gps.com/index.html)
 * MD [net-MD 管理](https://web.minidisc.wiki/) [net-MD 安装](https://post.smzdm.com/p/a60058le/)
 * Similarweb 相似网站搜索 [https://www.similarweb.com/zh/](https://www.similarweb.com/zh/)
@@ -52,7 +53,7 @@ description: hello Anaconda
 * Filecr [https://filecr.com/en/](https://filecr.com/en/) 破解软件下载
 * FinalFanatasy 测试性能 [http://benchmark.finalfantasyxv.com/na/](http://benchmark.finalfantasyxv.com/na/)
 * FreeCommander [https://freecommander.com/en/downloads-portable/](https://freecommander.com/en/downloads-portable/) windows 文件管理软件
-* Github hosts [“GitHub.com”A记录/cname检测结果--Dns查询|dns查询--站长工具](https://tool.chinaz.com/dns/GitHub.com) 直接改`   gitHub.com` 
+* Github hosts [“GitHub.com”A记录/cname检测结果--Dns查询|dns查询--站长工具](https://tool.chinaz.com/dns/GitHub.com) 直接改`   gitHub.com`  刷新 DNS 解析 `ipconfig /flushdns`
 * GitHub 镜像 [https://help.kgithub.com](https://help.kgithub.com/)
 * GitHub 镜像 [https://gitclone.com/](https://gitclone.com/)
 * GitHub 加速 [https://github.com/521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
@@ -61,7 +62,7 @@ description: hello Anaconda
 * GitHub hosts [https://hosts.gitcdn.top/hosts.txt](https://hosts.gitcdn.top/hosts.txt)
 * GitHub hosts [https://raw.hellogithub.com/hosts](https://raw.hellogithub.com/hosts)
 * GitHub hosts [https://raw.hellogithub.com/hosts.json](https://raw.hellogithub.com/hosts.json)
-* GitHub switch [https://github.com/oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)
+* GitHub switch https://github.com/oldj/SwitchHosts
 * IPTV [https://www.foodieguide.com/iptvsearch/](https://www.foodieguide.com/iptvsearch/)
 * Kaspersky Virus Removal Tool for Windows® [KVRT](https://devbuilds.s.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe) 杀毒软件
 * L 浏览器代理切换插件 [https://github.com/FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
@@ -93,6 +94,7 @@ description: hello Anaconda
 * 1377x [https://1337x.to/home/](https://1337x.to/home/)
 * Bt dig [btdig](https://en.btdig.com/)
 * Bt rarbg [therarbg](https://therarbg.com/)
+* Bt 搜索合集 [aiosearch.com](https://www.aiosearch.com/)
 * Bt 俄罗斯 [rutracker.org](https://rutracker.org/forum/index.php)
 * Bt [搜索网站合集 GitHub](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 * H 海盗湾 [https://thepiratebay.org/index.html](https://thepiratebay.org/index.html)
