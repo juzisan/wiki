@@ -61,7 +61,8 @@ description: hello Anaconda
 * GitHub hosts [https://hosts.gitcdn.top/hosts.txt](https://hosts.gitcdn.top/hosts.txt)
 * GitHub hosts [https://raw.hellogithub.com/hosts](https://raw.hellogithub.com/hosts)
 * GitHub hosts [https://raw.hellogithub.com/hosts.json](https://raw.hellogithub.com/hosts.json)
-* GitHub switch [https://github.com/oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)
+* GitHub switch https://github.com/oldj/SwitchHosts
+* LaTex 公式在线编辑 [https://www.latexlive.com/](https://www.latexlive.com/)
 * IPTV [https://www.foodieguide.com/iptvsearch/](https://www.foodieguide.com/iptvsearch/)
 * Kaspersky Virus Removal Tool for Windows® [KVRT](https://devbuilds.s.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe) 杀毒软件
 * L 浏览器代理切换插件 [https://github.com/FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
