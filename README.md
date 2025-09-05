@@ -22,7 +22,8 @@ description: hello Anaconda
 * Gpt [https://cc.ai55.cc/](https://cc.ai55.cc/) 公众号 赞美青春
 * Gpt GitHub [https://github.com/xx025/carrot](https://github.com/xx025/carrot)
 * Human Platform 在线人体解剖 [BioDigital Human Platform](https://human.biodigital.com/explore)
-* iTab浏览器网页标签 [https://www.itab.link/install/chrome.html](https://www.itab.link/install/chrome.html)
+* iTab浏览器网页标签 [https://www.itab.link/install/chrome.html](https://www.itab.link/install/chrome.html) https://go.itab.link
+* LaTex 公式在线编辑 [https://www.latexlive.com/](https://www.latexlive.com/)
 * 纽曼 [http://nk.newsmy-gps.com/index.html](http://nk.newsmy-gps.com/index.html)
 * MD [net-MD 管理](https://web.minidisc.wiki/) [net-MD 安装](https://post.smzdm.com/p/a60058le/)
 * Similarweb 相似网站搜索 [https://www.similarweb.com/zh/](https://www.similarweb.com/zh/)
@@ -62,7 +63,6 @@ description: hello Anaconda
 * GitHub hosts [https://raw.hellogithub.com/hosts](https://raw.hellogithub.com/hosts)
 * GitHub hosts [https://raw.hellogithub.com/hosts.json](https://raw.hellogithub.com/hosts.json)
 * GitHub switch https://github.com/oldj/SwitchHosts
-* LaTex 公式在线编辑 [https://www.latexlive.com/](https://www.latexlive.com/)
 * IPTV [https://www.foodieguide.com/iptvsearch/](https://www.foodieguide.com/iptvsearch/)
 * Kaspersky Virus Removal Tool for Windows® [KVRT](https://devbuilds.s.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe) 杀毒软件
 * L 浏览器代理切换插件 [https://github.com/FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
