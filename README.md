@@ -22,7 +22,7 @@ description: hello Anaconda
 * Gpt [https://cc.ai55.cc/](https://cc.ai55.cc/) 公众号 赞美青春
 * Gpt GitHub [https://github.com/xx025/carrot](https://github.com/xx025/carrot)
 * Human Platform 在线人体解剖 [BioDigital Human Platform](https://human.biodigital.com/explore)
-* iTab浏览器网页标签 [https://www.itab.link/install/chrome.html](https://www.itab.link/install/chrome.html) https://go.itab.link
+* iTab浏览器网页标签 [https://www.itab.link/install/chrome.html](https://www.itab.link/install/chrome.html) 网页收藏快捷方式 [https://go.itab.link](https://go.itab.link)
 * LaTex 公式在线编辑 [https://www.latexlive.com/](https://www.latexlive.com/)
 * 纽曼 [http://nk.newsmy-gps.com/index.html](http://nk.newsmy-gps.com/index.html)
 * MD [net-MD 管理](https://web.minidisc.wiki/) [net-MD 安装](https://post.smzdm.com/p/a60058le/)
