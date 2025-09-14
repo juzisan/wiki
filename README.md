@@ -94,6 +94,7 @@ description: hello Anaconda
 * 1377x [https://1337x.to/home/](https://1337x.to/home/)
 * Bt dig [btdig](https://en.btdig.com/)
 * Bt rarbg [therarbg](https://therarbg.com/)
+* Bt 搜索合集 [aiosearch.com](https://www.aiosearch.com/)
 * Bt 俄罗斯 [rutracker.org](https://rutracker.org/forum/index.php)
 * Bt [搜索网站合集 GitHub](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 * H 海盗湾 [https://thepiratebay.org/index.html](https://thepiratebay.org/index.html)

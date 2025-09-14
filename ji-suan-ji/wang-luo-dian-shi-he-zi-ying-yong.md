@@ -6,8 +6,11 @@ description: IPTV
 
 因为网络盒子被封，所以现在用下面的解决办法。
 
+一个网络电视相关的综合网站：[硬核指南](https://yinghezhinan.com )
+
 ## 安卓
 
+- [影视仓 app](https://yinghezhinan.com/site/yingshicang)  tv上好用的软件
 - github 代理 [https://mirror.ghproxy.com/](https://mirror.ghproxy.com/)
 - TVBox [https://github.com/o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC)
 - 配置地址（必填） [https://yingheapp.com/tvbox-jsonlist/](https://yingheapp.com/tvbox-jsonlist/)
