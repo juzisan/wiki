@@ -82,3 +82,27 @@ description: nas 设置
    ```
 7. samba 路径 `/hdd` `share` 添加 `\\10.10.10.11`
 8. 安装 [passwall2](https://github.com/xiaorouji/openwrt-passwall2/releases) ，下载后上传到 nas ，安装命令 `opkg install *.ipk --force-reinstall` ，`添加socks代理 ，1081 端口`
+
+##  qBittorrent备份还原
+
+备份：
+```cmd
+@echo off
+echo Compressing file...
+"C:\Program Files\7-Zip\7z.exe" a -r -tzip qBittorrent.zip C:\Users\Administrator\AppData\Local\qBittorrent\
+echo File compressed successfully.
+echo 按任意键退出
+pause >nul
+exit
+```
+
+还原：
+```cmd
+@echo off
+echo Compressing file...
+"C:\Program Files\7-Zip\7z.exe" x -oC:\Users\Administrator\AppData\Local\ qBittorrent.zip 
+echo File compressed successfully.
+echo 按任意键退出
+pause >nul
+exit
+```
