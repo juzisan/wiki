@@ -8,7 +8,7 @@ description: Windows 安装介绍
    中文版 [23H2 (Jan 2024)](magnet:?xt=urn:btih:57831e3ad5e74a319c5b85f239794fca3aeb5159&dn=zh-cn_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_fee59269.iso&xl=6725859328)
 2. 下载 [AtlasOS](https://atlasos.net/) 精简 windows 系统；[Atlas-OS](https://github.com/Atlas-OS/Atlas/releases)；安装程序[AME Wizard](https://ameliorated.io)
 3. 推荐维护用 winpe [WinPE 11-10-8 Sergei Strelec ](https://sergeistrelec.name/) fex.net 下载速度尚可。
-4. 准备 winpe 优选 [firpe](https://firpe.cn/page-247);
+4. 准备 winpe 优选 [firpe](https://firpe.cn/page-247); [HotPE模块](https://down.hotpe.top/HotPE模块)
 5. winpe 安装正版系统，接着安装 AtlasOS
 6. 激活 windows ，[HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
 7. EasyRC [https://firpe.cn/page-196](https://firpe.cn/page-196) 重装系统软件
