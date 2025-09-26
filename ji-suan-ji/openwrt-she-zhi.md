@@ -24,6 +24,7 @@ dd if=/tmp/tmp/op.img of=/dev/sda
 
 
 
+```
 序号	MAC地址	IP地址	备注
 1	68-F7-28-7D-51-00	10.10.10.11	nas
 2	B4-2E-99-90-EC-CA	10.10.10.12	amddesktop
@@ -37,6 +38,9 @@ dd if=/tmp/tmp/op.img of=/dev/sda
 10	F0-C9-D1-BE-36-6E	10.10.10.106	美的空调MAS4004B366E
 11	F0-C9-D1-F5-01-54	10.10.10.107	美的空调MAS8710BN0154
 12	10-B7-13-F7-DF-C5	10.10.10.108	电小酷插座
+```
+
+
 
 
 
