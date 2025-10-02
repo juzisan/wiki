@@ -93,6 +93,8 @@ description: nas 设置
 
 17. 磁盘自动整理：管理工具中“碎片整理”和“优化驱动器”里在“计划的优化”下，选择“更改设置”。
 
+18. 内网穿透：`https://panel.chmlfrp.cn/sign`
+
 
 
 

@@ -45,6 +45,7 @@ description: hello Anaconda
 
 * A 爱纯净激活软件 [http://www.aichunjing.com/jhgj1/](http://www.aichunjing.com/jhgj1/)
 * A AtlasOS [https://atlasos.net/](https://atlasos.net/) 精简 windows 系统
+* 安卓软件破解下载 [https://getmodsapk.com/apps/](https://getmodsapk.com/apps/)
 * D 单文件软件 [https://www.cmdpe.com/category-10.html](https://www.cmdpe.com/category-10.html)
 * FakeLocation [http://fakeloc.cc/app](http://fakeloc.cc/app) 安卓虚拟定位
 * 沈工智校 [https://wgzx.situ.edu.cn/index.htm](https://wgzx.situ.edu.cn/index.htm)
