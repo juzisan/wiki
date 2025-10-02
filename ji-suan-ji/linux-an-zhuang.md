@@ -8,7 +8,7 @@
 - sudo pacman -S ， yay 安装软件
 - 中文注音輸入法 `sudo pacman -S fcitx5-im fcitx5-chinese-addons  fcitx5-rime`
 - 中文輸入配置。nano是比較基本的文字編輯器，簡單好上手，大家可以更換成自己習慣的文字編輯器。
-`nano /etc/environment` 在文件中加入以下內容
+  `nano /etc/environment` 在文件中加入以下內容
 
 ```bash
 GTK_IM_MODULE=fcitx
@@ -45,16 +45,19 @@ sudo pacman -S blueberry
   [motrix](https://motrix.app/download)
 
 ### 2. 设置
+
 - 给账户 root 权限。`sudo xed /etc/sudoers`。
-内容 `test ALL= (ALL) ALL`
+  内容 `test ALL= (ALL) ALL`
 - 更新系统 `sudo apt-get update && sudo apt-get -y upgrade`
 - 改 hosts 文件 `sudo xed /etc/hosts` [内容](https://raw.hellogithub.com/hosts)
 - deb 软件包安装 `sudo dpkg -i` 后边接上软件包的名字
 
 ### 3. 软件安装
+
 ```bash
 sudo apt-get install scrot vlc gimp okular chromium
 ```
+
 - 安装截图软件 scrot ,pyautogui 能不能截图 
 - snap 安装 [https://snapcraft.io/store?categories=featured](https://snapcraft.io/store?categories=featured)
 - 安装 snap flatpak 命令[flatpak上海交通大学源](https://mirrors.sjtug.sjtu.edu.cn/docs/flathub)
@@ -78,9 +81,8 @@ sudo flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub
 - 安装字体
 - 在海豚中增加服务器共享 `smb://10.10.10.11/share`
 - 网络视频软件 [https://github.com/Hiram-Wong/ZyPlayer/releases](https://github.com/Hiram-Wong/ZyPlayer/releases)
-
-
-
+  
+  
 
 ## 3. Debian 服务器安装
 
@@ -242,12 +244,15 @@ cd /opt/alist
 ## 6. fedora 安装
 
 ### 1. fedora 下载
+
 - [fedora 下载](https://fedoraproject.org/workstation/)
+- Fedora 科学计算 LinuxOS [https://labs.fedoraproject.org/zh\_Hans\_CN/scientific/](https://labs.fedoraproject.org/zh\_Hans\_CN/scientific/)
+- Fedora 中文社区 [https://zh.fedoracommunity.org/](https://zh.fedoracommunity.org/)
 
 ### 2. fedora 设置
 
 - 换清华源  [fedora | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/help/fedora/)
-
+  
   ```bash
   sudo sed -e 's|^metalink=|#metalink=|g' \
       -e 's|^#baseurl=http://download.example/pub/fedora/linux|baseurl=https://mirrors.tuna.tsinghua.edu.cn/fedora|g' \
@@ -257,7 +262,7 @@ cd /opt/alist
   ```
 
 - 更新系统 
-
+  
   ```bash
   sudo dnf clean all && sudo dnf makecache
   sudo dnf upgrade
@@ -266,6 +271,7 @@ cd /opt/alist
 - 
 
 - `sudo passwd root` 改 root 密码 
+
 - 关闭wayland
 
 ```bash
@@ -301,6 +307,7 @@ sudo flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub
 ```
 
 ### 3. fedora 安装软件
+
 1. `sudo dnf install ` 和 `sudo dnf remove `
 2. `sudo dnf install scrot marker gimp okular chromium `
 3. 下载 [edge](https://www.microsoft.com/en-us/edge/download?form=MA13RB) [vivaldi](https://vivaldi.com/zh-hans/)
@@ -310,4 +317,3 @@ sudo flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub
 7. flatpak 安装 pycharm `flatpak install flathub com.jetbrains.PyCharm-Professional`
 
 ---
-
