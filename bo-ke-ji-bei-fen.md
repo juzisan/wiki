@@ -12,9 +12,9 @@ description: 备份很重要
 
 4. 本地 Github Windows 客户端 pull Github
 
-5. pyCharm 或 [hbuilderx](https://www.dcloud.io/hbuilderx.html) 编辑本地 Markdown
+5. pyCharm 或 [hbuilderx](https://www.dcloud.io/hbuilderx.html) 或 typora 编辑本地 Markdown
 
-6. 本地 GitKraken push Github
+6. 本地  push gitee
 
 7. 新建页面和页面调整用 gitbook 编辑
 
@@ -24,7 +24,14 @@ description: 备份很重要
 
 10. juzisan.site 用 [redirhub](https://dash.redirhub.com/) 重定向 d p w
 
-11. 用 gitee 同步 github，相当于又加了一个备份，gitee 不用翻墙，是否需要输入密码呢
+11. 
+
+12. 
+
+13. 
+
+
+用 gitee 同步 github，相当于又加了一个备份，gitee 不用翻墙，推送需要输入密码
 
     ```
     自动镜像
@@ -52,7 +59,8 @@ description: 备份很重要
     配置完成后，提交代码时会自动触发同步操作。
     ```
 
-    
+
+​    
 
 # 好处是
 
