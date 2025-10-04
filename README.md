@@ -55,6 +55,7 @@ description: hello Anaconda
 * Filecr [https://filecr.com/en/](https://filecr.com/en/) 破解软件下载
 * FinalFanatasy 测试性能 [http://benchmark.finalfantasyxv.com/na/](http://benchmark.finalfantasyxv.com/na/)
 * FreeCommander [https://freecommander.com/en/downloads-portable/](https://freecommander.com/en/downloads-portable/) windows 文件管理软件
+* Gitee 类似 github [https://gitee.com/juzi3san/wiki](https://gitee.com/juzi3san/wiki)
 * Github hosts [“GitHub.com”A记录/cname检测结果--Dns查询|dns查询--站长工具](https://tool.chinaz.com/dns/GitHub.com) 直接改`   gitHub.com`  刷新 DNS 解析 `ipconfig /flushdns`
 * GitHub 镜像 [https://help.kgithub.com](https://help.kgithub.com/)
 * GitHub 镜像 [https://gitclone.com/](https://gitclone.com/)
@@ -121,7 +122,7 @@ description: hello Anaconda
 * 现有域名 [juzsian.site](https://www.juzsian.site) 到34年8月29
 * 域名解析 [cloudflare-cn](https://www.cloudflare-cn.com/) 根域名解析到 www
 * 域名重定向 [redirhub](https://www.redirhub.com/)
-* 内网穿透 免费 [cpolar](https://www.cpolar.com/) 比花生壳好用多了
+* 内网穿透 免费 [cpolar](https://www.cpolar.com/) [chmlfrp](https://panel.chmlfrp.cn/sign) 比花生壳好用多了
 * gitbook [https://www.gitbook.com/](https://www.gitbook.com/)
 * gitbook 个人博客 [https://juzi.gitbook.io/wiki/](https://juzi.gitbook.io/wiki/) 设置 [dns](https://www.dns.com/login.html) 加速访问会快
 * python 在线运行 [https://www.pythonanywhere.com/login/](https://www.pythonanywhere.com/login/)
