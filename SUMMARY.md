@@ -19,6 +19,7 @@
   * [3. python 数学计算](python/3.-python-shu-xue-ji-suan.md)
 * [中小学编程](zhong-xiao-xue-bian-cheng/README.md)
   * [1.数学](zhong-xiao-xue-bian-cheng/1.-shu-xue.md)
+  * [2.物理](zhong-xiao-xue-bian-cheng/2.-wu-li.md)
 * [常识](chang-shi/README.md)
   * [饮食](chang-shi/yin-shi.md)
   * [上网](chang-shi/shang-wang.md)
