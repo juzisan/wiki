@@ -105,6 +105,7 @@ description: hello Anaconda
 * M magnetdl [https://www.magnetdl.com/](https://www.magnetdl.com/)
 * Z 种子下载合集 [https://torrends.to/](https://torrends.to/)
 * qBittorrent 增强版 [https://github.com/c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+* qBittorrent [qb下载](http://cd-2.frp.one:48126/)
 * 中文电影bt [https://www.seedhub.cc/](https://www.seedhub.cc/)
 * 中文电影bt [https://www.1lou.me/](https://www.1lou.me/)
 * 游戏下载 [https://fitgirl-repacks.site/](https://fitgirl-repacks.site/)
