@@ -7,11 +7,13 @@ description: nas 设置
 
 2. 没启动的时候用 Dism 删除拼音输入法。禁止系统更新。
 
-3. 开启远程协助:**windows设置** ---》**安全设置**---》**本地策略**---》**安全选项**---》**账号：使用空密码的本地账户只允许进行控制台登录**---》**禁用**
+3. 安装 [Revi-PB-25.10](https://www.revi.cc/)  系统，Dism 删除所有组件。
 
-4. 打开**控制面板**，**凭据管理器**，**添加windows凭据**，输入直连打印机电脑的**IP**，**用户名：guest ，密码为空**。点击确定。
+4. 开启远程协助:**windows设置** ---》**安全设置**---》**本地策略**---》**安全选项**---》**账号：使用空密码的本地账户只允许进行控制台登录**---》**禁用**
 
-5. 更改注册表
+5. 打开**控制面板**，**凭据管理器**，**添加windows凭据**，输入直连打印机电脑的**IP**，**用户名：guest ，密码为空**。点击确定。
+
+6. 更改注册表
    ```text
    Windows Registry Editor Version 5.00
    
@@ -32,15 +34,15 @@ description: nas 设置
    "Start"=dword:00000004
    ```
 
-6. 打开 **控制面板**-**管理工具**-**任务计划程序**---》 **创建基本任务**---》**输入名称、描述**---》**选择执行的操作，选择启动程序**---》执行命令 `shutdown -r -f` 命令---》勾选，打开任务属性对话框---》选择不管用户是否登录都要运行，不选不存储密码
+7. 打开 **控制面板**-**管理工具**-**任务计划程序**---》 **创建基本任务**---》**输入名称、描述**---》**选择执行的操作，选择启动程序**---》执行命令 `shutdown -r -f` 命令---》勾选，打开任务属性对话框---》选择不管用户是否登录都要运行，不选不存储密码
 
-7. 安装 [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) ，设置下载位置为E盘，改 [tracker](https://cf.trackerslist.com/all.txt)
+8. 安装 [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) ，设置下载位置为E盘，改 [tracker](https://cf.trackerslist.com/all.txt)
 
-8. 电脑访问 `\\10.10.10.11`
+9. 电脑访问 `\\10.10.10.11`
 
-9. win10 用 cmd 查看系启动时间 `systeminfo | find "系统启动时间"`
+10. win10 用 cmd 查看系启动时间 `systeminfo | find "系统启动时间"`
 
-10. 按下 win+r 在框中输入`shell:Startup` 就会出现添加快捷方式到启动目录
+11. 按下 win+r 在框中输入`shell:Startup` 就会出现添加快捷方式到启动目录
 
    步骤一：需要先激活自动登录选项，方法是修改注册表，依次展开
 
@@ -93,7 +95,7 @@ description: nas 设置
 
 17. 磁盘自动整理：管理工具中“碎片整理”和“优化驱动器”里在“计划的优化”下，选择“更改设置”。
 
-18. 内网穿透：`https://panel.chmlfrp.cn/sign`
+18. 内网穿透：` `
 
 
 
