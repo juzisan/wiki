@@ -5,7 +5,6 @@ description: nas 设置
 ## win10ltsc2019 当 nas
 
 1. [win10ltsc2019](ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x64_dvd_2efc9ac2.iso|4027760640|4B1C7640C3A280F205A0BCFFF65472FC|/) 迅雷链接 ed2k 的资源。
-
 2. [ntlite](https://www.puresys.net/%e7%b3%bb%e7%bb%9f%e5%b7%a5%e5%85%b7) 修改安装镜像。导入注册表，别的无所谓。
 
 ```text
@@ -27,12 +26,11 @@ Windows Registry Editor Version 5.00
 "LimitBlankPasswordUse"=dword:00000000
 ```
 
-
-
 3. [easyrc](https://firpe.cn/page-196) 安装修改后的镜像。高级都选上，账号写我常用的管理员。
-4. 启动后就可以远程连接上了。
-   
-   
+
+4. 启动后就可以远程连接上了。共享文件夹：back ，p ，q ，m 。
+
+5. 
 
 > [!CAUTION]
 > 
@@ -40,7 +38,9 @@ Windows Registry Editor Version 5.00
 
 
 
-安装 [Revi-PB-25.10](https://www.revi.cc/)  系统
+
+
+
 
 
 
@@ -76,11 +76,13 @@ Windows Registry Editor Version 5.00
 
 11. 安装 [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) ，设置下载位置为q盘，改 [tracker](https://cf.trackerslist.com/all.txt)
 
-12. 电脑访问 `\\10.10.10.11`
+12. bt 下载软件用 bitcomic 。
 
-13. win10 用 cmd 查看系启动时间 `systeminfo | find "系统启动时间"`
+13. 电脑访问 `\\10.10.10.11`
 
-14. 按下 win+r 在框中输入`shell:Startup` 就会出现添加快捷方式到启动目录
+14. win10 用 cmd 查看系启动时间 `systeminfo | find "系统启动时间"`
+
+15. 按下 win+r 在框中输入`shell:Startup` 就会出现添加快捷方式到启动目录
     步骤一：需要先激活自动登录选项，方法是修改注册表，依次展开
     `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\PasswordLess\Device`
     将 `DevicePasswordLessBuildVersion` 的值改为 0，并点击【确定】按钮。重启计算机。
@@ -89,7 +91,7 @@ Windows Registry Editor Version 5.00
     在弹出的窗口中输入上一步对应的用户名和密码，单击【确定】按钮。
     单击重新启动，自动登录设置完成。
 
-15. 按下 Win + R 键打开运行窗口；
+16. 按下 Win + R 键打开运行窗口；
     
     12. 输入 eventvwr.msc 并回车，启动事件查看器；
     
@@ -125,7 +127,7 @@ Windows Registry Editor Version 5.00
 
 17. 磁盘自动整理：碎片整理软件 [O&O Defrag Professional]((https://filecr.com/windows/oo-defrag/))。
 
-18. 内网穿透：` `  [ChmlFrp Panel v3](https://panel.chmlfrp.cn/sign)
+18. 内网穿透：` `  [ChmlFrp Panel v3](https://panel.chmlfrp.cn/sign)  设置通道，绑定域名，域名解析到给出来地址，域名得用全新的域名。协议选http。
     
     
     
