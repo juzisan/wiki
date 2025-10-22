@@ -82,12 +82,6 @@ description: hello Anaconda
 
 ## bt 下载
 
-* bt tracker [tracker](https://cf.trackerslist.com/all.txt)
-
-* bt tracker [https://github.com/XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection)
-
-* bt tracker [2千多](https://github.com/adysec/tracker)
-
 * bt 搜索网站合集 [qb搜索插件](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 
 * 1377x [https://1337x.to/home/](https://1337x.to/home/)
@@ -110,10 +104,6 @@ description: hello Anaconda
 
 * Z 种子下载合集 [https://torrends.to/](https://torrends.to/)
 
-* qBittorrent 增强版 [https://github.com/c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
-
-* qBittorrent [qb下载](http://cd-2.frp.one:48126/)
-
 * 中文电影bt [https://www.seedhub.cc/](https://www.seedhub.cc/)
 
 * 中文电影bt [https://www.1lou.me/](https://www.1lou.me/)
@@ -127,8 +117,17 @@ description: hello Anaconda
 * IMDB 电影榜单 [IMDb Top 250 Movies](https://www.imdb.com/chart/top/?ref_=helpms_ih_gi_siteindex)
 
 * IMDB 电视剧榜单 [Top 250 TV Shows](https://www.imdb.com/chart/toptv/?ref_=helpms_ih_gi_siteindex)
-  
-  
+
+  bt tracker：bt tracker [cf](https://cf.trackerslist.com/all.txt) [XIU2](https://github.com/XIU2/TrackersListCollection) [adysec](https://github.com/adysec/tracker) 下载软件：[qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+
+```markdown
+https://down.adysec.com/trackers_all.txt
+https://cf.trackerslist.com/all.txt
+```
+
+
+
+
 
 ## IP 地址显示
 
