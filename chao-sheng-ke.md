@@ -2,7 +2,7 @@
 
 ## 继续教育
 
-
+[辽宁省级继续医学管理教育系统](http://218.60.155.28/lncme/)
 
 ```html
 http://218.60.155.28/lncme/
@@ -12,11 +12,12 @@ jxjy@2023
 
 
 
-
-*   [http://kjptwsw.91huayi.com/](http://kjptwsw.91huayi.com/)
+* [http://kjptwsw.91huayi.com/](http://kjptwsw.91huayi.com/)
 
 * 华医网 [https://www.91huayi.com/](https://www.91huayi.com/)
+
 * 好医生 [https://cme.haoyisheng.com/](https://cme.haoyisheng.com/)
+
 * 双卫网 [http://sww.com.cn/](http://sww.com.cn/)
 
 ## 辽宁干部在线学习
@@ -42,11 +43,12 @@ jxjy@2023
 * 外网 [https://oa.fskwjzyy.com:9000/](https://oa.fskwjzyy.com:9000/)
 
 ### ip 地址
+
 * 急诊 11.11.1.115
 * 彩五 11.11.2.44
 * 彩七 11.11.2.27 打印机 
-
-
+  
+  
 
 ## 超声科会议室IP设置
 
