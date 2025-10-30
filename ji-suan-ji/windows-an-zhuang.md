@@ -50,7 +50,7 @@ description: Windows 安装介绍
 
 22. 游戏平台 [Steam](https://store.steampowered.com/about/)
 
-23. 虚拟机 [VMWare](https://filecr.com/windows/vmware-workstation-pro-25/)
+23. 虚拟机 [VMWare](https://filecr.com/windows/vmware-workstation-pro-25/) [VMWare官方下载](https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstation%20Pro)
 
 24. 开源批量重命名软件 [once_power](https://github.com/ilgnefz/once_power)
 
@@ -114,13 +114,15 @@ description: Windows 安装介绍
 
 4. photoshop 破解 m0nkrus bt 发布
 
-5. DxO PhotoLab 破解 [ftuapps](https://ftuapps.com) 
+5. 照片去噪点 DxO PureRAW 5
 
-6. 视频播放器 [PotPlayer](https://potplayer.tv/?lang=zh_CN) 恒星播放器(需要自行下载破解版，用来播放特殊高清视频)
+6. DxO PhotoLab 破解 [ftuapps](https://ftuapps.com) 
 
-7. 视频音频照片格式转换 [File Converter](https://github.com/Tichau/FileConverter/releases)
+7. 视频播放器 [PotPlayer](https://potplayer.tv/?lang=zh_CN) 恒星播放器(需要自行下载破解版，用来播放特殊高清视频)
 
-8. 
+8. 视频音频照片格式转换 [File Converter](https://github.com/Tichau/FileConverter/releases)
+
+9. 
 
 ## moonlight 和 sunshine
 
