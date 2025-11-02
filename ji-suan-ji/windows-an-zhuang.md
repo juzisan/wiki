@@ -108,7 +108,7 @@ description: Windows 安装介绍
 
 1. 屏幕截图 [ShareX](https://getsharex.com/) F1截屏
 
-2. 本地视频播放器 [Media Player Codec Pack Plus](https://www.mediaplayercodecpack.com/plus/)
+2. 本地视频播放器首选  [k-lite_codec_pack_mega](https://codecguide.com/download_k-lite_codec_pack_mega.htm)  ， [Media Player Codec Pack Plus](https://www.mediaplayercodecpack.com/plus/)  [mpc-hc](https://github.com/clsid2/mpc-hc/releases) 。
 
 3. photoshop 破解 [ftuapps](https://ftuapps.com)
 
