@@ -96,7 +96,11 @@ sudo flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub
 
 用户权限su sudo，自己用无所谓，普通用户su，有些系统命令前加sudo
 
-笔记本盒盖不关电源 `sudo nano /etc/systemd/login.conf` 找到 `LidSwitch`修改所有
+笔记本盒盖不关电源 `sudo nano /etc/systemd/login.conf`
+
+  `sudo nano /etc/systemd/logind.conf`  找到  `LidSwitch`  修改所有
+
+重启电脑 `sudo systemctl reboot`
 
 ### 2. 用ssh和todesk管理Debian
 
@@ -173,15 +177,37 @@ WantedBy=multi-user.target
 
 samba 共享文件夹需要开启 home 权限 `sudo chmod 777 下载 -R` 启动 samba `sudo service smb restart`
 
-### 5. 挂载硬盘
+### 5. 添加启动项
 
-#### **1. `fdisk -l` 查看硬盘的使用情况，也就是哪些硬盘没有挂载**
+ **使用rc.local文件设置手动启动项**
 
-#### **2. `df -h` 查看挂载情况**
+`/etc/rc.local`文件允许您在系统启动时执行自定义命令。编辑方法如下：
 
-#### **3.  使用命名 mkfs.ext4 进行格式化，命令如下 mkfs.ext4 /dev/vdb**
+```
+sudo nano /etc/rc.local
+```
 
-#### **4.  然后，创建挂载目录，用来㩐载数据盘，命令如下：**
+在文件中添加启动命令，每行一个命令，例如：
+
+```
+#!/bin/sh -e
+
+/home/gly/c/frpc -u
+```
+
+保存后，赋予文件执行权限：`sudo chmod +x /etc/rc.local`
+
+
+
+### 6. 挂载硬盘
+
+#### **5. 1 `fdisk -l` 查看硬盘的使用情况，也就是哪些硬盘没有挂载**
+
+#### **5. 2 `df -h` 查看挂载情况**
+
+#### **5.3  使用命名 mkfs.ext4 进行格式化，命令如下 mkfs.ext4 /dev/vdb**
+
+#### **5.4  然后，创建挂载目录，用来㩐载数据盘，命令如下：**
 
 ```bash
 mkdir /data1 #（创建目录的意思）
@@ -189,18 +215,18 @@ mount /dev/vdb /data1 #（将硬盘vdb挂到目录data1下）
 df -h
 ```
 
-#### **5.  系统重启自动挂载硬盘的操作方法**
+#### **5.5  系统重启自动挂载硬盘的操作方法**
 
 ```bash
 echo '/dev/vdb /data1 ext4 defaults 0 0' >> /etc/fstab #（自动挂载命令，会出现确认命令，选择y）
 cat /etc/fstab #（查看自动挂载是不是生效了）
 ```
 
-#### **6.  重启系统 reboot**
+#### **5.6  重启系统 reboot**
 
 ***
 
-### 6. 安装 alist
+### 7. 安装 alist
 
 [下载地址](https://alist.nn.ci/zh/guide/install/script.html)
 

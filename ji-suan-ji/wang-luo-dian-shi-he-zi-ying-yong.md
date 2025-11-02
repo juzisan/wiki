@@ -10,7 +10,8 @@ description: IPTV
 
 ## 安卓
 
-- [影视仓 app](https://yinghezhinan.com/site/yingshicang)  tv上好用的软件
+- [影视仓 app](https://yinghezhinan.com/site/yingshicang)  tv 上好用的软件
+- [油桃tv](https://www.utao.tv/) tv 上另一个电视直播软件
 - github 代理 [https://mirror.ghproxy.com/](https://mirror.ghproxy.com/)
 - TVBox [https://github.com/o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC)
 - 配置地址（必填） [https://yingheapp.com/tvbox-jsonlist/](https://yingheapp.com/tvbox-jsonlist/)

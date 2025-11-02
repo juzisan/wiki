@@ -49,7 +49,7 @@ description: hello Anaconda
 
 * FakeLocation [http://fakeloc.cc/app](http://fakeloc.cc/app) 安卓虚拟定位
 
-* 沈工智校 [https://wgzx.situ.edu.cn/index.htm](https://wgzx.situ.edu.cn/index.htm)
+* 沈工智校 [https://wgzx.situ.edu.cn/index.htm](https://wgzx.situ.edu.cn/index.htm) [下载地址](https://wxs.situ.edu.cn/downloadapp/Download.aspx)
 
 * Filecr [https://filecr.com/en/](https://filecr.com/en/) 破解软件下载
 

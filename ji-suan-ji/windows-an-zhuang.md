@@ -4,7 +4,7 @@ description: Windows 安装介绍
 
 ## Windows 安装
 
-1. 下载 Windows 系统 [假的MSDN](https://next.itellyou.cn/Original/)   ， win11中文版 [23H2 (Jan 2024)](magnet:?xt=urn:btih:57831e3ad5e74a319c5b85f239794fca3aeb5159&dn=zh-cn_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_fee59269.iso&xl=6725859328) ， [Micro10](https://windowsxlite.com/Micro10_x64_SE/) 特别小的 win10 ，[【不忘初心极限版】 Windows10 22H2 (19045.4598) X64 [纯净精简版][985M](2024.6.27)](https://www.pc528.net/wp-content/plugins/erphpdown/download.php?postid=5716) ， 
+1. ①下载 Windows 系统 [假的MSDN](https://next.itellyou.cn/Original/)   ， win11中文版 [23H2 (Jan 2024)](magnet:?xt=urn:btih:57831e3ad5e74a319c5b85f239794fca3aeb5159&dn=zh-cn_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_fee59269.iso&xl=6725859328) ， ②[Micro10](https://windowsxlite.com/Micro10_x64_SE/) 特别小的 win10 ，③【不忘初心极限版】 Windows10 22H2 (19045.4598) X64 纯净精简版 985M (2024.6.27) [985M下载](https://www.pc528.net/wp-content/plugins/erphpdown/download.php?postid=5716) ，④ 
     [爱纯净激活软件](http://www.aichunjing.com/jhgj1/) 。
 
 2. 下载 [AtlasOS](https://atlasos.net/) 精简 windows 系统；[Atlas-OS](https://github.com/Atlas-OS/Atlas/releases) ；安装程序[AME Wizard](https://ameliorated.io) ，安装 [Revi-PB-25.10](https://www.revi.cc/)  系统。
@@ -108,7 +108,7 @@ description: Windows 安装介绍
 
 1. 屏幕截图 [ShareX](https://getsharex.com/) F1截屏
 
-2. 本地视频播放器 [Media Player Codec Pack Plus](https://www.mediaplayercodecpack.com/plus/)
+2. 本地视频播放器首选  [k-lite_codec_pack_mega](https://codecguide.com/download_k-lite_codec_pack_mega.htm)  ， [Media Player Codec Pack Plus](https://www.mediaplayercodecpack.com/plus/)  [mpc-hc](https://github.com/clsid2/mpc-hc/releases) 。
 
 3. photoshop 破解 [ftuapps](https://ftuapps.com)
 
@@ -122,7 +122,7 @@ description: Windows 安装介绍
 
 8. 视频音频照片格式转换 [File Converter](https://github.com/Tichau/FileConverter/releases)
 
-9. 
+9. 浏览图片软件 [XnView MP](https://www.xnview.com/en/xnview-mp/)
 
 ## moonlight 和 sunshine
 

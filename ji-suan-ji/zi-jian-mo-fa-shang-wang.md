@@ -44,6 +44,9 @@ crontab -u root -e
 20 */2 * * * systemctl restart wg-quick@wg0.service
 30 3 * * * reboot
 
+0 1 * * * systemctl restart sing-box;rc-service sing-box restart
+
+
 # 查看服务运行时间
 
 ps -eo pid,lstart,etime,cmd | grep 'sing-box'
@@ -57,6 +60,7 @@ ps -eo pid,lstart,etime,cmd | grep 'wg'
 ## apk 翻墙软件
 1.  [小火箭](https://rocketapp666.github.io/)
 2.  [v4freedom](https://v4freedom.com/) 
+3.  [v2rayNG](https://github.com/2dust/v2rayNG)
 
 
 
