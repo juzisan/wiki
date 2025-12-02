@@ -11,6 +11,7 @@
   * [Windows 安装](ji-suan-ji/windows-an-zhuang.md)
   * [安卓电脑破解](ji-suan-ji/an-zhuo-dian-nao-po-jie.md)
   * [安卓手机root](ji-suan-ji/an-zhuo-shou-ji-root.md)
+  * [批处理编辑](ji-suan-ji/pi-chu-li.md)
   * [网络电视盒子应用](ji-suan-ji/wang-luo-dian-shi-he-zi-ying-yong.md)
   * [在线小说阅读app](ji-suan-ji/zai-xian-xiao-shuo-yue-du-app.md)
   * [自建魔法上网](ji-suan-ji/zi-jian-mo-fa-shang-wang.md)
