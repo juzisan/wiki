@@ -6,7 +6,7 @@ description: hello Anaconda
 
 每当想起来消失的wordpress，TMD的生气啦，还得是自建的牢靠
 
-2025Years,Wake
+2026Years,ComeOn
 
 
 
@@ -27,6 +27,7 @@ description: hello Anaconda
 * Similarweb 相似网站搜索 [https://www.similarweb.com/zh/](https://www.similarweb.com/zh/)
 * S 搜狗微信 [https://weixin.sogou.com/?p=73141200\&kw=](https://weixin.sogou.com/?p=73141200\&kw=)
 * Vi [https://www.runoob.com/linux/linux-vim.html](https://www.runoob.com/linux/linux-vim.html)
+* Vivo 定位 [https://find.vivo.com.cn](https://find.vivo.com.cn)
 * Vivo 互传 [http://as.vivo.com/](http://as.vivo.com/)
 * W 微信 [https://wx.qq.com/](https://wx.qq.com/)
 * Y 一刻相册 [https://photo.baidu.com/photo/web/home](https://photo.baidu.com/photo/web/home)
