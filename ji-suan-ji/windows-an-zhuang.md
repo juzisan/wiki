@@ -114,7 +114,7 @@ description: Windows 安装介绍
 
 4. photoshop 破解 m0nkrus bt 发布
 
-5. 照片去噪点 DxO PureRAW 5
+5. 照片去噪点 [DxO PureRAW 5](https://filecr.com/windows/dxo-pureraw-0001/?id=046451200000) 防火墙策略增加 `C:\Program Files\DxO\DxO PureRAW 5\PureRAWv5.exe` 入站和出站
 
 6. DxO PhotoLab 破解 [ftuapps](https://ftuapps.com) 
 
@@ -123,6 +123,8 @@ description: Windows 安装介绍
 8. 视频音频照片格式转换 [File Converter](https://github.com/Tichau/FileConverter/releases)
 
 9. 浏览图片软件 [XnView MP](https://www.xnview.com/en/xnview-mp/)
+
+10. 视频编辑 [绘声绘影2023](https://filecr.com/windows/corel-videostudio/) windows 11 运行输入 `firewall.cpl` 防火墙策略增加 `C:\Program Files\Corel\Corel VideoStudio 2023\vstudio.exe` 入站和出站
 
 ## moonlight 和 sunshine
 
