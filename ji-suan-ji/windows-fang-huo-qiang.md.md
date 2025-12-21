@@ -4,6 +4,8 @@ description: Windows 防火墙
 
 ## Windows 防火墙 cmd 批处理文件
 
+1. 批处理文件
+
 ```cmd
 chcp 65001
 
