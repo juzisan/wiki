@@ -146,7 +146,8 @@ description: Windows 安装介绍
    
    
 
-## 关机和重启
+## 关机和重启，以及设置
 
 - 关机 `shutdown -p`
 - 重启 `shutdown -r -t 0`
+- Windows 工具 的快捷方式内容 `"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools"`

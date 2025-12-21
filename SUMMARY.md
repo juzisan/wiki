@@ -9,6 +9,7 @@
   * [nfc-card](ji-suan-ji/nfc-card.md)
   * [Openwrt设置](ji-suan-ji/openwrt-she-zhi.md)
   * [Windows 安装](ji-suan-ji/windows-an-zhuang.md)
+  * [Windows 防火墙](ji-suan-ji/windows-fang-huo-qiang.md)
   * [安卓电脑破解](ji-suan-ji/an-zhuo-dian-nao-po-jie.md)
   * [安卓手机root](ji-suan-ji/an-zhuo-shou-ji-root.md)
   * [批处理编辑](ji-suan-ji/pi-chu-li.md)
