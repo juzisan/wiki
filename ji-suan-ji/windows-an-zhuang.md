@@ -7,7 +7,7 @@ description: Windows 安装介绍
 1. ①下载 Windows 系统 [假的MSDN](https://next.itellyou.cn/Original/)   ， win11中文版 [23H2 (Jan 2024)](magnet:?xt=urn:btih:57831e3ad5e74a319c5b85f239794fca3aeb5159&dn=zh-cn_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_fee59269.iso&xl=6725859328) ， ②[Micro10](https://windowsxlite.com/Micro10_x64_SE/) 特别小的 win10 ，③【不忘初心极限版】 Windows10 22H2 (19045.4598) X64 纯净精简版 985M (2024.6.27) [985M下载](https://www.pc528.net/wp-content/plugins/erphpdown/download.php?postid=5716) ，④ 
     [爱纯净激活软件](http://www.aichunjing.com/jhgj1/) 。
 
-2. 下载 [AtlasOS](https://atlasos.net/) 精简 windows 系统；[Atlas-OS](https://github.com/Atlas-OS/Atlas/releases) ；安装程序[AME Wizard](https://ameliorated.io) ，安装 [Revi-PB-25.10](https://www.revi.cc/)  系统。
+2. 下载 [AtlasOS](https://atlasos.net/) 精简 windows 系统；[Atlas-OS](https://github.com/Atlas-OS/Atlas/releases) AtlasOS 支持 win10 22h2 不限制具体版本，最新的25年10月可以正常使用，优先选用这个win10 atlasos 0.4.1 版本；安装程序[AME Wizard](https://ameliorated.io) ，安装 [Revi-PB-25.10](https://www.revi.cc/)  系统。
 
 3. 推荐维护用 winpe [WinPE 11-10-8 Sergei Strelec ](https://sergeistrelec.name/) fex.net 下载速度尚可。 [WePe](https://www.wepe.com.cn/download.html) 好用的维护 PE
 
