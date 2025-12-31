@@ -6,59 +6,34 @@ description: Windows 安装介绍
 
 1. ①下载 Windows 系统 [假的MSDN](https://next.itellyou.cn/Original/)   ， win11中文版 [23H2 (Jan 2024)](magnet:?xt=urn:btih:57831e3ad5e74a319c5b85f239794fca3aeb5159&dn=zh-cn_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_fee59269.iso&xl=6725859328) ， ②[Micro10](https://windowsxlite.com/Micro10_x64_SE/) 特别小的 win10 ，③【不忘初心极限版】 Windows10 22H2 (19045.4598) X64 纯净精简版 985M (2024.6.27) [985M下载](https://www.pc528.net/wp-content/plugins/erphpdown/download.php?postid=5716) ，④ 
     [爱纯净激活软件](http://www.aichunjing.com/jhgj1/) 。
-
 2. 下载 [AtlasOS](https://atlasos.net/) 精简 windows 系统；[Atlas-OS](https://github.com/Atlas-OS/Atlas/releases) AtlasOS 支持 win10 22h2 不限制具体版本，最新的25年10月可以正常使用，优先选用这个win10 atlasos 0.4.1 版本；安装程序[AME Wizard](https://ameliorated.io) ，安装 [Revi-PB-25.10](https://www.revi.cc/)  系统。
-
 3. 推荐维护用 winpe [WinPE 11-10-8 Sergei Strelec ](https://sergeistrelec.name/) fex.net 下载速度尚可。 [WePe](https://www.wepe.com.cn/download.html) 好用的维护 PE
-
 4. 准备 winpe 优选 [firpe](https://firpe.cn/page-247) ， [HotPE模块](https://down.hotpe.top/HotPE模块) ，轻松创建 USB 启动盘 [Rufus](https://rufus.ie/zh/) 。
-
 5. winpe 安装正版系统，接着安装 AtlasOS 或者 Revi 系统。
-
 6. 激活 windows ，[HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
-
 7. EasyRC [https://firpe.cn/page-196](https://firpe.cn/page-196) 重装系统软件。
-
 8. ATI [驱动](https://www.amd.com/zh-cn/support/download/drivers.html)
-
 9. Bitwarden 密码管理器 [https://vault.bitwarden.com/#/vault](https://vault.bitwarden.com/#/vault)
-
 10. 系统增强 [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/install) [NirLauncher](https://launcher.nirsoft.net/downloads/index.html) 
-
 11. 桌面图标整理 [GeekDesk](https://gitee.com/dotnetchina/GeekDesk)
-
 12. unigetui 升级软件和下载 [unigetui](https://www.marticliment.com/unigetui/#mirrors)
-
 13. 卸载软件 [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html)
-
 14. [手心输入法](https://www.xinshuru.com/index.html?p=win)
-
 15. 单文件软件 [https://www.cmdpe.com/category-10.html](https://www.cmdpe.com/category-10.html)
-
 16. Filecr [https://filecr.com/en/](https://filecr.com/en/) 破解软件下载
-
-17. FreeCommander [https://freecommander.com/en/downloads-portable/](https://freecommander.com/en/downloads-portable/)
-    windows 文件管理软件
-
+17. multicommander [multicommander](http://multicommander.com)
+     windows 文件管理软件
 18. Moba shell [https://mobaxterm.mobatek.net/](https://mobaxterm.mobatek.net/) Windows shell 窗口 moba2023
-
 19. [7zip](https://www.7-zip.org/)  最好用的压缩解压缩软件
-
 20. 显示帧率 ati 快捷键
-
 21. fastcopy Windows 快速复制文件 https://filecr.com/windows/fastcopy-pro/
-
 22. 游戏平台 [Steam](https://store.steampowered.com/about/)
-
 23. 虚拟机 [VMWare](https://filecr.com/windows/vmware-workstation-pro-25/) [VMWare官方下载](https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstation%20Pro)
-
 24. 开源批量重命名软件 [once_power](https://github.com/ilgnefz/once_power)
-
 25. 杀毒软件 [卡巴斯基](https://www.kaspersky.com.cn/downloads/free-antivirus)
-
 26. 测试性能 [最终幻想](http://benchmark.finalfantasyxv.com/na/) 。
-
-27. 
+27. 驱动下载软件 DriverBoosterPortable
+28. windows 管理工具快捷方式 `"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools"` 
 
 ## 网络软件
 
@@ -125,6 +100,14 @@ description: Windows 安装介绍
 9. 浏览图片软件 [XnView MP](https://www.xnview.com/en/xnview-mp/)
 
 10. 视频编辑 [绘声绘影2023](https://filecr.com/windows/corel-videostudio/) windows 11 运行输入 `firewall.cpl` 防火墙策略增加 `C:\Program Files\Corel\Corel VideoStudio 2023\vstudio.exe` 入站和出站
+
+11. 视频编辑软件 威力导演 2026
+
+12. [freecad ](https://www.freecad.org/) 免费cad软件
+
+13. GIMP 3.0.8 免费开源图片编辑软件
+
+14. 
 
 ## moonlight 和 sunshine
 
