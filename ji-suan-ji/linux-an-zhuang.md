@@ -48,9 +48,38 @@ sudo pacman -S blueberry
 
 - 给账户 root 权限。`sudo xed /etc/sudoers`。
   内容 `test ALL= (ALL) ALL`
+  
 - 更新系统 `sudo apt-get update && sudo apt-get -y upgrade`
+
 - 改 hosts 文件 `sudo xed /etc/hosts` [内容](https://raw.hellogithub.com/hosts)
+
 - deb 软件包安装 `sudo dpkg -i` 后边接上软件包的名字
+
+- 开启 openssh 
+
+  ```bash
+  # 查看运行状态:
+  
+  sudo systemctl status ssh
+  
+  # 安装命令:
+  
+  sudo apt-get install openssh-server
+  
+  # 修改端口:
+  
+  sudo nano /etc/ssh/sshd_config
+  
+  # 启用开机自启：
+  
+  sudo systemctl enable ssh
+  
+  # 启动服务：
+  
+  sudo systemctl start ssh
+   
+  
+  ```
 
 ### 3. 软件安装
 

@@ -38,6 +38,8 @@ description: hello Anaconda
 
 ## Ai
 
+* 免费 gpt [https://hk.uugpt.com/chat](https://hk.uugpt.com/chat)
+
 * Vivo 蓝心千询 [https://qianxun.vivo.com/#/explore](https://qianxun.vivo.com/#/explore)
 
 * T 通义 [https://tongyi.aliyun.com/](https://tongyi.aliyun.com/)
