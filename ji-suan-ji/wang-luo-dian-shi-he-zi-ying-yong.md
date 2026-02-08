@@ -8,10 +8,20 @@ description: IPTV
 
 一个网络电视相关的综合网站：[硬核指南](https://yinghezhinan.com )
 
+## 电脑
+
+- 在线点播软件 瓜子电脑版 推荐用 [荐片](https://jianpian15.com/#/home)
+
+- 在线直播网址 [央视直播](https://tv.cctv.com/live/) [央视点播](https://tv.cctv.com/yxg/) [北京电视台](https://www.btime.com/btv/btvsy_index) [东方卫视](https://live.kankanews.com/huikan) 
+
+- 在线 [国家中小学智慧教育平台](https://basic.smartedu.cn/syncClassroom/auto)
+
 ## 安卓
 
+- freebox [影視TV](https://github.com/FongMi/Release/tree/okjack/apk/release)         [配置接口](https://tvbox.catvod.com/)
 - [影视仓 app](https://yinghezhinan.com/site/yingshicang)  tv 上好用的软件
 - [油桃tv](https://www.utao.tv/) tv 上另一个电视直播软件
+- [网易爆米花](https://bmh.163.com/)
 - github 代理 [https://mirror.ghproxy.com/](https://mirror.ghproxy.com/)
 - TVBox [https://github.com/o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC)
 - 配置地址（必填） [https://yingheapp.com/tvbox-jsonlist/](https://yingheapp.com/tvbox-jsonlist/)

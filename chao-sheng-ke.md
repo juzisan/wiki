@@ -1,5 +1,12 @@
 # 超声科
 
+## 华润集团统一登录平台
+
+
+* [https://oa.crcloud.com/crhealthcare/#/workbench](https://oa.crcloud.com/crhealthcare/#/workbench)
+* [https://ldap.crc.com.cn/](https://ldap.crc.com.cn/)
+* 润工作 [https://app.rwork.crc.com.cn/messenger/](https://app.rwork.crc.com.cn/messenger/)
+
 ## 继续教育
 
 [辽宁省级继续医学管理教育系统](http://218.60.155.28/lncme/)
@@ -32,10 +39,7 @@ jxjy@2023
 * 内网地址 ：[https://11.255.252.199](https://11.255.252.199)
 * 外网地址 ：[https://oa.fskwjzyy.com:9000/](http://oa.fskwjzyy.com:9000/)
 
-### 华润集团统一登录平台
 
-* [https://ldap.crc.com.cn/](https://ldap.crc.com.cn/)
-* 润工作 [https://app.rwork.crc.com.cn/messenger/](https://app.rwork.crc.com.cn/messenger/)
 
 ### OA 办公网址
 
@@ -66,3 +70,9 @@ jxjy@2023
 * CSK123456
 * 路由器登录密码
 * tc7208
+
+
+
+## 在线视频学习
+
+手机火狐浏览器桌面模式，安装手机插件 gestify，全屏，快进，等播放结束，千万别退出全屏，等着
