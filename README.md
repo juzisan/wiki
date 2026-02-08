@@ -38,6 +38,8 @@ description: hello Anaconda
 
 ## Ai
 
+* 免费 gpt [https://hk.uugpt.com/chat](https://hk.uugpt.com/chat)
+
 * Vivo 蓝心千询 [https://qianxun.vivo.com/#/explore](https://qianxun.vivo.com/#/explore)
 
 * T 通义 [https://tongyi.aliyun.com/](https://tongyi.aliyun.com/)
@@ -50,9 +52,9 @@ description: hello Anaconda
 
 * FakeLocation [http://fakeloc.cc/app](http://fakeloc.cc/app) 安卓虚拟定位
 
-* 沈工智校 [https://wgzx.situ.edu.cn/index.htm](https://wgzx.situ.edu.cn/index.htm) [下载地址](https://wxs.situ.edu.cn/downloadapp/Download.aspx)
+* Free download [https://pc.qq.com/detail/1/detail_421.html](https://pc.qq.com/detail/1/detail_421.html)
 
-* Filecr [https://filecr.com/en/](https://filecr.com/en/) 破解软件下载
+* Filecr [https://filecr.com/en/](https://filecr.com/en/) 破解软件下载 
 
 * Gitee 类似 github [https://gitee.com/juzi3san/wiki](https://gitee.com/juzi3san/wiki)
 
@@ -68,11 +70,17 @@ description: hello Anaconda
 
 * IPTV [https://www.foodieguide.com/iptvsearch/](https://www.foodieguide.com/iptvsearch/)
 
-* vivo 软件商店 安卓软件 [apk下载](https://h5.appstore.vivo.com.cn/#/)
+* Localsend [localsend.org](https://localsend.org/zh-CN/download)
+
+* sourceforge.net 开源软件下载 [sourceforge.net/](https://sourceforge.net/)
+
+* vivo 软件商店 安卓软件 [apk下载](https://h5.appstore.vivo.com.cn/#/) [apkpure.com](https://apkpure.com/cn/) [apkmirror](https://www.apkmirror.com/)
 
 * Windows 辅助软件 [https://www.sordum.org/](https://www.sordum.org/)
 
 * 免费领软件 [https://sharewareonsale.com](https://sharewareonsale.com/product-tag/giveaway+active-deals?os=windows)
+  
+* 沈工智校 [https://wgzx.situ.edu.cn/index.htm](https://wgzx.situ.edu.cn/index.htm) [下载地址](https://wxs.situ.edu.cn/downloadapp/Download.aspx)
   
   
 
@@ -87,9 +95,17 @@ description: hello Anaconda
 
 * 1377x [https://1337x.to/home/](https://1337x.to/home/)
 
+* Bt 网站合集推荐 [https://torrends.to/sites/](https://torrends.to/sites/)
+
+* Bt [https://bt4gprx.com/](https://bt4gprx.com/)
+
 * Bt dig [btdig](https://en.btdig.com/)
 
 * Bt rarbg [therarbg](https://therarbg.com/)
+
+* Bt 磁力星球永久域名 [btstar.top/](https://btstar.top/)
+
+* bt 磁力星球 [github](https://github.com/cilisoso/cilixingqiu)
 
 * Bt 搜索合集 [aiosearch.com](https://www.aiosearch.com/)
 
@@ -110,6 +126,8 @@ description: hello Anaconda
 * 中文电影bt [https://www.1lou.me/](https://www.1lou.me/)
 
 * 游戏下载 [https://fitgirl-repacks.site/](https://fitgirl-repacks.site/)
+
+* 游戏下载 [https://dodi-repacks.site/](https://dodi-repacks.site/)
 
 * 游戏下载 [https://www.skidrowreloaded.com/](https://www.skidrowreloaded.com/)
 
@@ -133,6 +151,7 @@ https://cf.trackerslist.com/all.txt
 ## IP 地址显示
 
 * [http://www.ip111.cn/](http://www.ip111.cn/)
+* [web代理](https://websiteproxy.net/)
 
 ## 图床&#x20;
 

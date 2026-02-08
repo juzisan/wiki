@@ -1,7 +1,7 @@
 # Table of contents
 
 * [主页](README.md)
-* [我的收藏夹](https://juzisan.pythonanywhere.com/)
+* [我的收藏夹](shou-cang-lian-jie.md)
 * [计算机](ji-suan-ji/README.md)
   * [hosts](ji-suan-ji/hosts.md)
   * [Linux 安装](ji-suan-ji/linux-an-zhuang.md)
@@ -22,23 +22,33 @@
   * [1. python 运行环境的搭建](python/1.-python-yun-hang-huan-jing-de-da-jian.md)
   * [2. python 好习惯](python/2.-python-haoxiguan.md)
   * [3. python 数学计算](python/3.-python-shu-xue-ji-suan.md)
+  
 * [中小学编程](zhong-xiao-xue-bian-cheng/README.md)
   * [1.数学](zhong-xiao-xue-bian-cheng/1.-shu-xue.md)
   * [2.物理](zhong-xiao-xue-bian-cheng/2.-wu-li.md)
+  
+* [航模](hang-mo\README.md)
+  * [固定翼航模](hang-mo/gu-ding-yi.md)  
+
 * [常识](chang-shi/README.md)
   * [饮食](chang-shi/yin-shi.md)
   * [上网](chang-shi/shang-wang.md)
   * [法律法规](chang-shi/falfa-gui.md)
   * [医学](chang-shi/yi-xue.md)
+  
 * [初入互联网](chu-ru-hu-lian-wang.md)
+
 * [超声科](chao-sheng-ke.md)
+
 * [汽车](qi-che.md)
+
 * [博客及备份](bo-ke-ji-bei-fen.md)
+
 * [口罩](kou-zhao.md)
 
 ## gitbook 例子分组
 
-* [例子](gitbook-li-zi-fen-zu/li-zi/README.md)
+* [例子](li-zi/README.md)
   * [例子gitbook](li-zi/li-zi-gitbook.md)
   * [例子一](li-zi/li-zi-yi.md)
   * [一号标题](li-zi/yi-hao-biao-ti.md)

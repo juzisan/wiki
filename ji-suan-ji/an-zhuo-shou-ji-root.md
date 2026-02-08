@@ -3,7 +3,7 @@
 
 ## 刷第三方rom
 - 电脑软件：搞机工具箱， reiboot 
-- 小米5安装 [lineageos](https://wiki.lineageos.org/devices/gemini/install/#installing-lineageos-from-recovery) [lineageos旧版本](https://lineageosroms.com/gemini/)
+- 小米5安装lineageos 17 性能最好 [mokee](https://sourceforge.net/projects/mokee/) [lineageos](https://wiki.lineageos.org/devices/gemini/install/#installing-lineageos-from-recovery) [lineageos旧版本](https://lineageosroms.com/gemini/) 安卓10版本 lineageos [旧版本](https://lineage-archive.timschumi.net/#gemini)
 - 废弃 小米手机 [安装twrp](https://twrp.me/xiaomi/xiaomimi5.html)
 - 手机root[小米手机安装magisk](https://magiskcn.com/mi-boot.html) 重命名apk为zip，twrp安装apk。
 - [隐藏Magisk自身应用](https://magiskcn.com/hide-the-magisk-app.html)
@@ -11,6 +11,25 @@
 - [隐藏应用列表安装教程](https://magiskcn.com/hide-my-applist-install.html) 黑名单选想要模拟的软件
 - 小米5rom [lineageos](https://download.lineageos.org/devices/gemini/builds)
 - 小米5rom [官方rom](https://roms.miuier.com/zh-cn/devices/gemini)
+
+必备的 app 
+
+https://github.com/topjohnwu/Magisk
+
+https://github.com/xfqwdsj/IAmNotADeveloper
+
+https://github.com/Dr-TSNG/Hide-My-Applist/
+
+自动对时和检测网络访问
+
+```
+adb shell settings put global ntp_server ntp.aliyun.com
+
+settings put global captive_portal_http_url http://connect.rom.miui.com/generate_204
+settings put global captive_portal_https_url https://connect.rom.miui.com/generate_204
+```
+
+
 
 -----------------------------------------
 
@@ -23,7 +42,7 @@
 - [lineageos 安装说明](https://wiki.lineageos.org/devices/gemini/install/)
 
 
- 
+
 lineageos 刷机用 sideload   
 
 Read through the instructions at least once before actually following them, so as to avoid any problems due to any missed steps!  
@@ -97,7 +116,7 @@ Tip: Normally, adb will report Total xfer: 1.00x, but in some cases, even if the
 
 Click Apply Update, then Apply from ADB, then `adb -d sideload `filename.zip for all desired packages in sequence.
 When presented with a screen that says Signature verification failed, click Yes. It is expected as add-ons aren’t signed with LineageOS’s official key!
- 
+
 
 
 
