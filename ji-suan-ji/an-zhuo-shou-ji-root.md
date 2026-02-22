@@ -12,6 +12,16 @@
 - 小米5rom [lineageos](https://download.lineageos.org/devices/gemini/builds)
 - 小米5rom [官方rom](https://roms.miuier.com/zh-cn/devices/gemini)
 
+必备的 app 
+
+https://github.com/topjohnwu/Magisk
+
+https://github.com/xfqwdsj/IAmNotADeveloper
+
+https://github.com/Dr-TSNG/Hide-My-Applist/
+
+
+
 -----------------------------------------
 
 ## 模拟定位软件
@@ -23,7 +33,7 @@
 - [lineageos 安装说明](https://wiki.lineageos.org/devices/gemini/install/)
 
 
- 
+
 lineageos 刷机用 sideload   
 
 Read through the instructions at least once before actually following them, so as to avoid any problems due to any missed steps!  
@@ -97,7 +107,7 @@ Tip: Normally, adb will report Total xfer: 1.00x, but in some cases, even if the
 
 Click Apply Update, then Apply from ADB, then `adb -d sideload `filename.zip for all desired packages in sequence.
 When presented with a screen that says Signature verification failed, click Yes. It is expected as add-ons aren’t signed with LineageOS’s official key!
- 
+
 
 
 

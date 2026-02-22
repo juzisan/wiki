@@ -8,6 +8,18 @@ description: IPTV
 
 一个网络电视相关的综合网站：[硬核指南](https://yinghezhinan.com )
 
+## 电脑
+
+在线点播软件 瓜子_Windows_v1.0.2
+
+在线直播网址 [央视直播](https://tv.cctv.com/live/) [央视点播](https://tv.cctv.com/yxg/) [北京电视台](https://www.btime.com/btv/btvsy_index) [东方卫视](https://live.kankanews.com/huikan) 
+
+在线 [国家中小学智慧教育平台](https://basic.smartedu.cn/syncClassroom/auto)
+
+
+
+
+
 ## 安卓
 
 - [影视仓 app](https://yinghezhinan.com/site/yingshicang)  tv 上好用的软件
