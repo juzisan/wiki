@@ -17,9 +17,6 @@ description: IPTV
 在线 [国家中小学智慧教育平台](https://basic.smartedu.cn/syncClassroom/auto)
 
 
-
-
-
 ## 安卓
 
 - [影视仓 app](https://yinghezhinan.com/site/yingshicang)  tv 上好用的软件
