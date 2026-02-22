@@ -10,11 +10,11 @@ description: IPTV
 
 ## 电脑
 
-在线点播软件 瓜子电脑版
+- 在线点播软件 瓜子电脑版
 
-在线直播网址 [央视直播](https://tv.cctv.com/live/) [央视点播](https://tv.cctv.com/yxg/) [北京电视台](https://www.btime.com/btv/btvsy_index) [东方卫视](https://live.kankanews.com/huikan) 
+- 在线直播网址 [央视直播](https://tv.cctv.com/live/) [央视点播](https://tv.cctv.com/yxg/) [北京电视台](https://www.btime.com/btv/btvsy_index) [东方卫视](https://live.kankanews.com/huikan) 
 
-在线 [国家中小学智慧教育平台](https://basic.smartedu.cn/syncClassroom/auto)
+- 在线 [国家中小学智慧教育平台](https://basic.smartedu.cn/syncClassroom/auto)
 
 ## 安卓
 
