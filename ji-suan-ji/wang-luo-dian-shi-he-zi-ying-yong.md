@@ -18,6 +18,7 @@ description: IPTV
 
 ## 安卓
 
+- freebox [影視TV](https://github.com/FongMi/Release/tree/okjack/apk/release)         [配置接口](https://tvbox.catvod.com/)
 - [影视仓 app](https://yinghezhinan.com/site/yingshicang)  tv 上好用的软件
 - [油桃tv](https://www.utao.tv/) tv 上另一个电视直播软件
 - github 代理 [https://mirror.ghproxy.com/](https://mirror.ghproxy.com/)
