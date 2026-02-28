@@ -89,6 +89,10 @@ description: hello Anaconda
 
 * 1377x [https://1337x.to/home/](https://1337x.to/home/)
 
+* Bt 网站合集推荐 [https://torrends.to/sites/](https://torrends.to/sites/)
+
+* Bt [https://bt4gprx.com/](https://bt4gprx.com/)
+
 * Bt dig [btdig](https://en.btdig.com/)
 
 * Bt rarbg [therarbg](https://therarbg.com/)
@@ -112,6 +116,8 @@ description: hello Anaconda
 * 中文电影bt [https://www.1lou.me/](https://www.1lou.me/)
 
 * 游戏下载 [https://fitgirl-repacks.site/](https://fitgirl-repacks.site/)
+
+* 游戏下载 [https://dodi-repacks.site/](https://dodi-repacks.site/)
 
 * 游戏下载 [https://www.skidrowreloaded.com/](https://www.skidrowreloaded.com/)
 
