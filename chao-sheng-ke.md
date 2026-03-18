@@ -3,7 +3,7 @@
 ## 华润集团统一登录平台
 
 
-* https://oa.crcloud.com/crhealthcare/#/workbench
+* [https://oa.crcloud.com/crhealthcare/#/workbench](https://oa.crcloud.com/crhealthcare/#/workbench)
 * [https://ldap.crc.com.cn/](https://ldap.crc.com.cn/)
 * 润工作 [https://app.rwork.crc.com.cn/messenger/](https://app.rwork.crc.com.cn/messenger/)
 
