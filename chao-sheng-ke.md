@@ -51,6 +51,8 @@ jxjy@2023
 * 急诊 11.11.1.115
 * 彩五 11.11.2.44
 * 彩七 11.11.2.27 打印机 
+* 
+* `bin\config\PM_QuerySqlSetting.ini`
   
   
 

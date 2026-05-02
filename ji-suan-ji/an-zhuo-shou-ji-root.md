@@ -3,7 +3,7 @@
 
 ## 刷第三方rom
 - 电脑软件：搞机工具箱， reiboot 
-- 小米5安装[mokee](https://sourceforge.net/projects/mokee/) [lineageos](https://wiki.lineageos.org/devices/gemini/install/#installing-lineageos-from-recovery) [lineageos旧版本](https://lineageosroms.com/gemini/) 安卓10版本
+- 小米5安装lineageos 17 性能最好 [mokee](https://sourceforge.net/projects/mokee/) [lineageos](https://wiki.lineageos.org/devices/gemini/install/#installing-lineageos-from-recovery) [lineageos旧版本](https://lineageosroms.com/gemini/) 安卓10版本 lineageos [旧版本](https://lineage-archive.timschumi.net/#gemini)
 - 废弃 小米手机 [安装twrp](https://twrp.me/xiaomi/xiaomimi5.html)
 - 手机root[小米手机安装magisk](https://magiskcn.com/mi-boot.html) 重命名apk为zip，twrp安装apk。
 - [隐藏Magisk自身应用](https://magiskcn.com/hide-the-magisk-app.html)
@@ -19,6 +19,15 @@ https://github.com/topjohnwu/Magisk
 https://github.com/xfqwdsj/IAmNotADeveloper
 
 https://github.com/Dr-TSNG/Hide-My-Applist/
+
+自动对时和检测网络访问
+
+```
+adb shell settings put global ntp_server ntp.aliyun.com
+
+settings put global captive_portal_http_url http://connect.rom.miui.com/generate_204
+settings put global captive_portal_https_url https://connect.rom.miui.com/generate_204
+```
 
 
 
