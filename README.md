@@ -140,6 +140,8 @@ description: hello Anaconda
   bt tracker：bt tracker [cf](https://cf.trackerslist.com/all.txt) [XIU2](https://github.com/XIU2/TrackersListCollection) [adysec](https://github.com/adysec/tracker) 下载软件：[qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
 
 ```markdown
+https://tracker.adysec.com/trackers_best.txt
+https://tracker.adysec.com/trackers_all.txt
 https://down.adysec.com/trackers_all.txt
 https://cf.trackerslist.com/all.txt
 ```

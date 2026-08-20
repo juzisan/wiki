@@ -12,7 +12,9 @@ description: IPTV
 
 - 在线点播软件 瓜子电脑版 推荐用 [荐片](https://jianpian15.com/#/home)
 
-- 在线直播网址 [央视直播](https://tv.cctv.com/live/) [央视点播](https://tv.cctv.com/yxg/) [北京电视台](https://www.btime.com/btv/btvsy_index) [东方卫视](https://live.kankanews.com/huikan) 
+- 在线直播网址 央视直播 [央视点播](https://tv.cctv.com/yxg/) [北京电视台](https://www.btime.com/btv/btvsy_index) [东方卫视](https://live.kankanews.com/huikan) 
+
+- 在线视频网址 [一影视](https://www.iysdq.tv/)
 
 - 在线 [国家中小学智慧教育平台](https://basic.smartedu.cn/syncClassroom/auto)
 
@@ -30,6 +32,7 @@ description: IPTV
 - 配置地址 [https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt](https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt)
 - 直播软件 [https://github.com/Supprise0901/TVBox_live](https://github.com/Supprise0901/TVBox_live)
 - 直播地址 [https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/live.txt](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/live.txt)
+
 ## 电脑端
 
 - ZyPlayer PC 端 [https://github.com/Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)
