@@ -12,7 +12,7 @@ description: IPTV
 
 - 在线点播软件 瓜子电脑版 推荐用 [荐片](https://jianpian15.com/#/home)
 
-- 在线直播网址 央视直播 [央视点播](https://tv.cctv.com/yxg/) [北京电视台](https://www.btime.com/btv/btvsy_index) [东方卫视](https://live.kankanews.com/huikan) 
+- 在线直播网址 [央视直播](https://tv.cctv.com/live/) [央视点播](https://tv.cctv.com/yxg/) [北京电视台](https://www.btime.com/btv/btvsy_index) [东方卫视](https://live.kankanews.com/huikan) 
 
 - 在线视频网址 [一影视](https://www.iysdq.tv/)
 
