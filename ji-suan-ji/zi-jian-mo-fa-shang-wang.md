@@ -67,3 +67,5 @@ ps -eo pid,lstart,etime,cmd | grep 'wg'
 ##  电脑端另类vpn
 
 [Cloudflare WARP](https://developers.cloudflare.com/warp-client/get-started/windows/) 必须在梯子的情况下连接，等连接上就可以退了梯子了，好奇怪的啊。
+
+[洋葱tor](https://www.torproject.org/zh-CN/download/)
