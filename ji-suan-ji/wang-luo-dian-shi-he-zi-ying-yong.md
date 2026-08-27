@@ -32,6 +32,11 @@ description: IPTV
 - 配置地址 [https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt](https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt)
 - 直播软件 [https://github.com/Supprise0901/TVBox_live](https://github.com/Supprise0901/TVBox_live)
 - 直播地址 [https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/live.txt](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/live.txt)
+- 安卓同步时间设置
+```cmd
+adb connect ip
+adb shell settings put global ntp_server ntp.ntsc.ac.cn
+```
 
 ## 电脑端
 
