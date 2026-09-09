@@ -134,3 +134,4 @@ description: Windows 安装介绍
 - 关机 `shutdown -p`
 - 重启 `shutdown -r -t 0`
 - Windows 工具 的快捷方式内容 `"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools"`
+-  [易数一键还原](https://www.onekeyrestore.cn/) 开机按F3备份还原系统，比其他的简单。

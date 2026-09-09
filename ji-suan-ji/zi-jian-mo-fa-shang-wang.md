@@ -69,3 +69,14 @@ ps -eo pid,lstart,etime,cmd | grep 'wg'
 [Cloudflare WARP](https://developers.cloudflare.com/warp-client/get-started/windows/) 必须在梯子的情况下连接，等连接上就可以退了梯子了，好奇怪的啊。
 
 [洋葱tor](https://www.torproject.org/zh-CN/download/)
+
+## 联想newifi
+
+设置国内源 https://mirrors.ustc.edu.cn/help/openwrt.html
+
+`sed -i 's/downloads.openwrt.org/mirrors.ustc.edu.cn\/openwrt/g' /etc/apk/repositories.d/distfeeds.list`
+
+`apk update`
+
+`apk update apk upgrade`
+
