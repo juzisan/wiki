@@ -146,7 +146,19 @@ https://down.adysec.com/trackers_all.txt
 https://cf.trackerslist.com/all.txt
 ```
 
+```
+https://thepiratebay.org/index.html
+https://therarbg.com/
+https://1337x.to/home/
+https://bt4gprx.com/
+https://www.torrentkitty.tv/
+https://torrends.to/
+https://cilimo.com/
+https://www.cilihunt.com/
+```
 
+```
+```
 
 
 
