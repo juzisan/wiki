@@ -53,7 +53,7 @@ description: Windows 安装介绍
 
 8. 浏览器代理切换插件 [https://github.com/FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
 
-9. 
+9. 邮箱客户端 [火狐雷鸟桌面端](https://www.thunderbird.net/zh-CN/)
 
 ## 办公软件
 
