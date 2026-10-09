@@ -116,6 +116,7 @@ description: Windows 安装介绍
 * sunshine 局域网串流服务 [https://github.com/LizardByte/Sunshine/releases](https://github.com/LizardByte/Sunshine/releases)
 * sunshine 文档 [https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/overview.html](https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/overview.html)
 * sunshine 默认管理网址 [https://localhost:47990/](https://localhost:47990/)
+* 安卓投屏控制 [柚坛工具箱](https://toolbox.uotan.cn/) 安卓投屏控评软件
   
   
 
