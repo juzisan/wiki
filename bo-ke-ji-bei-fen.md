@@ -8,17 +8,15 @@ description: 备份很重要
 
 2. gitbook 同步 [GitHub](https://github.com/) ，GitHub 需要翻墙。
 
-3. 用 [gitee](https://gitee.com/) 同步 GitHub，gitee 不用翻墙，推送需要输入密码。
+3. 用 [gitcode](https://gitcode.com/juzisan/wikiwiki) 同步 GitHub，gitcode 不用翻墙，推送需要输入密码。
 
-4. 本地 [Github Windows](https://github.com/apps/desktop) 客户端 pull gitee 。
+4. 本地 [Github Windows](https://github.com/apps/desktop) 客户端 pull gitcode。
 
 5. 新建页面和页面调整用 gitbook 编辑。
 
 6. typedown 或 pyCharm 或 [hbuilderx](https://www.dcloud.io/hbuilderx.html) 或 typora 编辑本地 Markdown 。
 
-7. 
-
-用 gitee 同步 github。
+7. 用 gitcode 同步 github。
 
 
 
@@ -55,7 +53,7 @@ description: 备份很重要
 ## 域名
 
 * 域名注册 [https://sso.godaddy.com/?realm=idp\&app=venture-redirector\&path=/](https://sso.godaddy.com/?realm=idp\&app=venture-redirector\&path=/)
-* 现有域名 [juzsian.site](https://www.juzsian.site)  www.juzisan.site 10 年到 2034-08-31 07:59:59 188 元 ，阿里云布置到 [cloudflare](https://dash.cloudflare.com) 上。
+* 现有域名 [juzsian.site](https://www.juzsian.site)  www.juzisan.site 10 年到 2034-08-31 07:59:59 188 元 ，阿里云布置到 [cloudflare](https://dash.cloudflare.com) 上。juzisan.dpdns.org 免费续费 2027/6/7 。
 * 域名解析 [cloudflare-cn](https://www.cloudflare-cn.com/) 根域名解析到 www 。
 * 域名重定向 [redirhub](https://www.redirhub.com/) ，现在不需要了。
 * 内网穿透 免费 [chmlfrp](https://panel.chmlfrp.cn/sign) [cpolar](https://www.cpolar.com/) 比[花生壳](https://hsk.oray.com/)好用多了。
@@ -72,4 +70,4 @@ description: 备份很重要
 ## 好处是
 
 1. 相当于有四个位置存储
-2. gitbook,Github,gitee 和本地都有备份
+2. gitbook, Github, gitcode 和本地都有备份
