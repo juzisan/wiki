@@ -8,17 +8,15 @@ description: 备份很重要
 
 2. gitbook 同步 [GitHub](https://github.com/) ，GitHub 需要翻墙。
 
-3. 用 [gitee](https://gitee.com/) 同步 GitHub，gitee 不用翻墙，推送需要输入密码。
+3. 用 [gitcode](https://gitcode.com/juzisan/wikiwiki) 同步 GitHub，gitcode 不用翻墙，推送需要输入密码。
 
-4. 本地 [Github Windows](https://github.com/apps/desktop) 客户端 pull gitee 。
+4. 本地 [Github Windows](https://github.com/apps/desktop) 客户端 pull gitcode。
 
 5. 新建页面和页面调整用 gitbook 编辑。
 
 6. typedown 或 pyCharm 或 [hbuilderx](https://www.dcloud.io/hbuilderx.html) 或 typora 编辑本地 Markdown 。
 
-7. 
-
-用 gitee 同步 github。
+7. 用 gitcode 同步 github。
 
 
 
@@ -72,4 +70,4 @@ description: 备份很重要
 ## 好处是
 
 1. 相当于有四个位置存储
-2. gitbook,Github,gitee 和本地都有备份
+2. gitbook, Github, gitcode 和本地都有备份
