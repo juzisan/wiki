@@ -53,7 +53,7 @@ description: 备份很重要
 ## 域名
 
 * 域名注册 [https://sso.godaddy.com/?realm=idp\&app=venture-redirector\&path=/](https://sso.godaddy.com/?realm=idp\&app=venture-redirector\&path=/)
-* 现有域名 [juzsian.site](https://www.juzsian.site)  www.juzisan.site 10 年到 2034-08-31 07:59:59 188 元 ，阿里云布置到 [cloudflare](https://dash.cloudflare.com) 上。
+* 现有域名 [juzsian.site](https://www.juzsian.site)  www.juzisan.site 10 年到 2034-08-31 07:59:59 188 元 ，阿里云布置到 [cloudflare](https://dash.cloudflare.com) 上。juzisan.dpdns.org 免费续费 2027/6/7 。
 * 域名解析 [cloudflare-cn](https://www.cloudflare-cn.com/) 根域名解析到 www 。
 * 域名重定向 [redirhub](https://www.redirhub.com/) ，现在不需要了。
 * 内网穿透 免费 [chmlfrp](https://panel.chmlfrp.cn/sign) [cpolar](https://www.cpolar.com/) 比[花生壳](https://hsk.oray.com/)好用多了。
