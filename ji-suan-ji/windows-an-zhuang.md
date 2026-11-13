@@ -55,6 +55,8 @@ description: Windows 安装介绍
 
 9. 邮箱客户端 [火狐雷鸟桌面端](https://www.thunderbird.net/zh-CN/)
 
+10.  绿色本地火狐浏览器 [绿色本地火狐浏览器](https://github.com/Piracola/Gecko-Portable)
+
 ## 办公软件
 
 1. Office 下载 [https://otp.landian.vip/zh-cn/download.html](https://otp.landian.vip/zh-cn/download.html)
