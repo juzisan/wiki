@@ -156,6 +156,9 @@ https://www.torrentkitty.tv/
 https://torrends.to/
 https://cilimo.com/
 https://www.cilihunt.com/
+https://filecr.com/ms-windows/
+https://ip111.cn/
+https://gemini.google.com/app
 ```
 
 ```
