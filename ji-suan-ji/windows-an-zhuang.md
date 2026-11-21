@@ -55,7 +55,9 @@ description: Windows 安装介绍
 
 9. 邮箱客户端 [火狐雷鸟桌面端](https://www.thunderbird.net/zh-CN/)
 
-10.  绿色本地火狐浏览器 [绿色本地火狐浏览器](https://github.com/Piracola/Gecko-Portable)
+10. 绿色本地火狐浏览器 [绿色本地火狐浏览器](https://github.com/Piracola/Gecko-Portable)
+
+11. 终端管理 [tabby](https://github.com/Eugeny/tabby)
 
 ## 办公软件
 
