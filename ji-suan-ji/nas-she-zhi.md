@@ -2,6 +2,95 @@
 description: nas 设置
 ---
 
+## Lubuntu 服务器当 nas
+
+### 安装 Lubuntu 
+
+1. x下载地址 [Lubuntu](https://lubuntu.me/?page_id=3200)
+
+2. 安装选最小安装
+
+3. 安装 openssh 
+
+   ```bash
+   sudo apt update && sudo apt -y upgrade 
+   
+   sudo apt install openssh-server
+   
+   # 启动 SSH 服务（如果未自动启动）
+   
+   sudo systemctl start ssh
+   
+   # 设置 SSH 服务开机自启
+   
+   sudo systemctl enable ssh
+   
+   # 查看服务状态（确认是否正常运行）
+   
+   sudo systemctl status ssh
+   ```
+
+4. 安装 ubuntu 应用管理，`sudo apt install plasma-discover`
+
+5. 安装 KDE 磁盘管理 和 qbittorrent-tak ；执行后可以看到登录密码。
+
+   ```bash
+   sudo snap connect qbittorrent-tak:removable-media
+   sudo snap connect qbittorrent-tak:mount-observe
+   sudo snap logs qbittorrent-tak
+   ```
+
+   
+
+6. KDE 磁盘管理挂载 home 到自己的磁盘
+
+7. 安装 vnc
+
+   ```bash
+   sudo apt install x11vnc -y
+    
+   x11vnc -storepasswd
+    
+   x11vnc -display :0 -usepw -forever -loop -noxdamage -repeat -rfbauth ~/.vnc/passwd
+
+8. 打印机驱动安装，从网上下载驱动，用 discover商店 安装好。
+### 安装 smb 服务
+1. 安装 smb `sudo dnf install samba`
+2. 安装完成后，启动 SMB 和 NMB 服务，并设置为开机自动启动：`sudo systemctl enable --now smb`，`sudo systemctl status smbd`
+
+4. 将该用户添加到 Samba 用户数据库：`sudo smbpasswd -a gly`
+
+5. 创建目录：
+
+   ```bash
+   sudo mkdir -p /home/{back,m,q,p}  && sudo chown -R gly:gly /home/{back,m,q,p}  && sudo chmod -R 755 /home/{back,m,q,p}
+   ```
+6. 编辑 Samba 主配置文件 /etc/samba/smb.conf：`sudo nano /etc/samba/smb.conf`
+7. 增加配置，重启 smb 服务：`sudo systemctl restart smb`
+
+```text
+[back]
+        comment = My Share
+        path = /home/back
+        browseable = yes
+        writable = yes
+[M]
+        comment = My Share
+        path = /home/m
+        browseable = yes
+        writable = yes
+[Q]
+        comment = My Share
+        path = /home/q
+        browseable = yes
+        writable = yes
+[P]
+        comment = My Share
+        path = /home/p
+        browseable = yes
+        writable = yes
+```
+
 
 
 ## Fedora 服务器当 nas
