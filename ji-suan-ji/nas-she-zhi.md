@@ -93,6 +93,16 @@ description: nas 设置
 
 
 
+### lubuntu 永久关闭图形界面，会省电，从 19 w 到 10 w 功耗。
+
+1. 查看默认图形界面: `systemctl get-default`   输出:  `graphical.target`
+2. 将默认目标改为多用户命令行模式：需要 sudo 权限。执行以下命令切换默认启动级别：`sudo systemctl set-default multi-user.target`
+3. 读取默认显示管理器路径: `cat /etc/X11/default-display-manager` 
+4. 同时禁用显示管理器: `sudo systemctl disable sddm`
+5. 重启电脑 `sudo reboot`
+
+
+
 ## Fedora 服务器当 nas
 
 ### 安装 Fedora
