@@ -34,17 +34,50 @@ description: nas 设置
 
 5. 安装 KDE 磁盘管理 和 qbittorrent-tak ；执行后可以看到登录密码。
 
-   ```bash
-   sudo snap connect qbittorrent-tak:removable-media
-   sudo snap connect qbittorrent-tak:mount-observe
-   sudo snap logs qbittorrent-tak
+6. KDE 磁盘管理挂载 home 到自己的磁盘，编辑挂载： `sudo nano /etc/fstab`
+
+   ```
+   # /etc/fstab: static file system information.
+   #
+   # Use 'blkid' to print the universally unique identifier for a device; this may
+   # be used with UUID= as a more robust way to name devices that works even if
+   # disks are added and removed. See fstab(5).
+   #
+   # <file system>             <mount point>  <type>  <options>  <dump>  <pass>
+   UUID=CCF6-236B                              /boot/efi   vfat    defaults            0 2 
+   UUID=525308ae-a3b4-4ef4-a94b-6191d027f08a   /           ext4    discard             0 1 
+   /swapfile                                   swap        swap    defaults            0 0 
+   tmpfs                                       /tmp        tmpfs   noatime,mode=1777   0 0 
+   /dev/sda3                                   /home/gly   ext4    nofail              0 0 
+   /dev/sdc1                                   /home/m     xfs     nofail              0 0 
+   /dev/sdd1                                   /home/p     xfs     nofail              0 0 
+   /dev/sdb1                                   /home/q     xfs     nofail,users        0 0 
+   
    ```
 
    
 
-6. KDE 磁盘管理挂载 home 到自己的磁盘
+   ```bash
+   sudo apt install -y snapd
+   sudo snap install core
+   
+   snap find qbittorrent-tak
+   sudo snap install qbittorrent-tak
+   
+   sudo snap connect qbittorrent-tak:removable-media
+   sudo snap connect qbittorrent-tak:mount-observe
+   sudo snap logs qbittorrent-tak
+   
+   sudo apt install -y ./pantum_1.1.167-1_amd64.deb
+   ```
 
-7. 安装 vnc
+   
+
+7. 
+
+   
+
+8. 安装 vnc
 
    ```bash
    sudo apt install x11vnc -y
@@ -53,7 +86,7 @@ description: nas 设置
     
    x11vnc -display :0 -usepw -forever -loop -noxdamage -repeat -rfbauth ~/.vnc/passwd
 
-8. 打印机驱动安装，从网上下载驱动，用 discover商店 安装好。
+9. 打印机驱动安装，从网上下载驱动，用 discover商店 安装好。
 ### 安装 smb 服务
 1. 安装 smb `sudo dnf install samba`
 2. 安装完成后，启动 SMB 和 NMB 服务，并设置为开机自动启动：`sudo systemctl enable --now smb`，`sudo systemctl status smbd`
